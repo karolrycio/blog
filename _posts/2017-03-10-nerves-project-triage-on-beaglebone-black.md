@@ -14,7 +14,7 @@ tags: [ ]
 categories:
   - Linux
   - Embedded
-  - Beagleboneblack
+  - BeagleBone Black
   - Nerves
   - Elixir
   - Erlang
