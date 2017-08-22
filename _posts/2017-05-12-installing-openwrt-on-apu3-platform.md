@@ -10,7 +10,7 @@ published: true
 post_date: 2017-05-12 12:00:00
 tags: [ ]
 categories:
-  - Pcengines
+  - PC Engines
   - Openwrt
   - APU3
   - Rt5370
