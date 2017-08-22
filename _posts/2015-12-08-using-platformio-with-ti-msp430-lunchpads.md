@@ -14,7 +14,7 @@ tags: [ ]
 categories:
   - Embedded
   - MSP430
-  - Ti
+  - TI
   - PlatformIO
 ---
 [PlatformIO](http://platformio.org/) is very interesting project that aim to
