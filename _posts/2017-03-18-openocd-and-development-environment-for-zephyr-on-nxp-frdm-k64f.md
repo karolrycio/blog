@@ -16,7 +16,7 @@ categories:
   - Zephyr
   - Openocd
   - NXP
-  - Frdm-k64f
+  - FRDM-K64F
   - Segger
 ---
 In this post I would like to describe process of setting up NXP FRDM-K64F
