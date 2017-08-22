@@ -13,7 +13,7 @@ post_date: 2015-12-08 13:16:36
 tags: [ ]
 categories:
   - Embedded
-  - Msp430
+  - MSP430
   - Ti
   - PlatformIO
 ---
