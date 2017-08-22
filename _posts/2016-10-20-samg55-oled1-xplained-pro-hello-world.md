@@ -12,7 +12,7 @@ tags: [ ]
 categories:
   - Embedded
   - Atmel
-  - Samg55
+  - SAMG55
 ---
 SAMG55 - recognition in the field
 ---------------------------------
