@@ -1,0 +1,52 @@
+---
+ID: 11
+post_title: Homepage
+author: Karol Rycio
+post_excerpt: ""
+layout: page
+permalink: http://3mdeb.kleder.co/homepage/
+published: true
+post_date: 2017-07-08 15:43:31
+tags: [ ]
+categories: [ ]
+---
+[vc_row unlock_row_content="yes" row_height_percent="0" override_padding="yes" h_padding="0" top_padding="0" bottom_padding="0" back_color="color-128210" overlay_alpha="50" gutter_size="3" shift_y="0"][vc_column width="1/1"][rev_slider alias="homepage"][/vc_column][/vc_row][vc_row row_height_percent="0" override_padding="yes" h_padding="2" top_padding="5" bottom_padding="5" overlay_alpha="50" equal_height="yes" gutter_size="0" border_style="solid" shift_y="0"][vc_column column_width_use_pixel="yes" position_vertical="middle" align_horizontal="align_center" overlay_alpha="50" gutter_size="3" medium_width="0" mobile_width="0" shift_x="0" shift_y="0" z_index="0" width="1/1" column_width_pixel="1090"][vc_column_text]
+
+<h2>We offer complete embedded software and firmware development solutions for new products, making their development a smooth process.</h2>
+
+[/vc_column_text][/vc_column][/vc_row][vc_row unlock_row_content="yes" row_height_percent="0" override_padding="yes" h_padding="7" top_padding="3" bottom_padding="3" back_color="color-xsdn" overlay_alpha="50" equal_height="yes" gutter_size="0" shift_y="-2" row_height_pixel="500px"][vc_column column_width_percent="100" position_vertical="middle" override_padding="yes" column_padding="0" style="dark" back_image="58736" back_repeat="no-repeat" back_attachment="scroll" back_position="center center" overlay_alpha="50" gutter_size="3" medium_width="0" mobile_width="0" shift_x="2" shift_y="-5" z_index="0" width="1/2" back_size="cover"][/vc_column][vc_column column_width_percent="100" position_vertical="middle" override_padding="yes" column_padding="4" style="dark" back_color="accent" overlay_alpha="50" gutter_size="3" medium_width="0" mobile_width="0" shift_x="-2" shift_y="0" z_index="0" width="1/2"][vc_empty_space empty_h="2"][vc_column_text]
+
+<h3>From creating bare-metal firmware tools to complete AWS IoT product development solutions, our team has the resources and expertise needed to deliver valuable results every time.</h3>
+
+[/vc_column_text][vc_button button_color="color-xsdn" radius="btn-circle" outline="yes" link="url:http%3A%2F%2F3mdeb.kleder.co%2Fabout-us%2F|||"]Read more[/vc_button][vc_empty_space empty_h="2"][/vc_column][/vc_row][vc_row row_height_percent="0" override_padding="yes" h_padding="2" top_padding="3" bottom_padding="2" overlay_alpha="50" equal_height="yes" gutter_size="0" border_style="solid" shift_y="0"][vc_column column_width_use_pixel="yes" position_vertical="middle" align_horizontal="align_center" overlay_alpha="50" gutter_size="3" medium_width="0" mobile_width="0" shift_x="0" shift_y="0" z_index="0" width="1/1" column_width_pixel="1090"][vc_column_text text_lead="yes"]
+
+<h2 style="text-align: center">Our team helps Product Creators spend less time on embedded software and achieve the maximum potential of hardware</h2>
+
+<p style="text-align: center">Basically, we have got you covered in every possible scenario:</p>
+
+[/vc_column_text][/vc_column][/vc_row][vc_row unlock_row_content="yes" row_height_percent="0" override_padding="yes" h_padding="7" top_padding="2" bottom_padding="2" overlay_alpha="50" gutter_size="3" shift_y="0"][vc_column column_width_percent="100" align_horizontal="align_center" overlay_alpha="50" gutter_size="3" medium_width="0" mobile_width="0" shift_x="0" shift_y="0" z_index="0" width="1/4"][vc_single_image media="58930" media_width_use_pixel="yes" alignment="center" media_width_pixel="100"][vc_column_text]
+
+<h4 style="text-align: center">Keeping embedded software up-to-date and secure</h4>
+
+[/vc_column_text][/vc_column][vc_column width="1/4"][vc_single_image media="58931" media_width_use_pixel="yes" alignment="center" media_width_pixel="100"][vc_column_text]
+
+<h4 style="text-align: center">Developing a product that is compatible with industry standards</h4>
+
+[/vc_column_text][/vc_column][vc_column width="1/4"][vc_single_image media="58932" media_width_use_pixel="yes" alignment="center" media_width_pixel="100"][vc_column_text]
+
+<h4 style="text-align: center">Hunting down hardware inefficiencies and optimizing firmware</h4>
+
+[/vc_column_text][/vc_column][vc_column width="1/4"][vc_single_image media="58933" media_width_use_pixel="yes" alignment="center" media_width_pixel="100"][vc_column_text]
+
+<h4 style="text-align: center">Geting more juice out of a new released product</h4>
+
+[/vc_column_text][/vc_column][/vc_row][vc_row row_height_percent="0" override_padding="yes" h_padding="2" top_padding="2" bottom_padding="4" overlay_alpha="50" gutter_size="3" shift_y="0"][vc_column column_width_percent="100" align_horizontal="align_center" overlay_alpha="50" gutter_size="3" medium_width="0" mobile_width="0" shift_x="0" shift_y="0" z_index="0" width="1/1"][vc_button button_color="color-128210" radius="btn-circle" outline="yes" link="url:http%3A%2F%2F3mdeb.kleder.co%2Fcapabilities%2F|||"]Our services[/vc_button][/vc_column][/vc_row][vc_row unlock_row_content="yes" row_height_percent="0" override_padding="yes" h_padding="7" top_padding="3" bottom_padding="3" back_color="color-lxmt" overlay_alpha="50" gutter_size="3" shift_y="0"][vc_column column_width_percent="100" align_horizontal="align_center" overlay_alpha="50" gutter_size="3" medium_width="0" mobile_width="0" shift_x="0" shift_y="0" z_index="0" width="1/1"][vc_column_text el_class="emb-section-heading"]
+
+<h6 style="text-align: center">
+  News, updated, tips &amp; tricks</h6>
+
+[/vc_column_text][vc_separator sep_color="accent" el_width="50px" el_height="5px"][vc_empty_space empty_h="2" mobile_visibility="yes"][uncode_index el_id="index-192260" isotope_mode="fitRows" loop="size:4|order_by:date|post_type:post" auto_query="yes" style_preset="metro" gutter_size="3" post_items="sep-one|full,date,title,author" screen_lg="1000" screen_md="600" screen_sm="480" single_width="3" single_height="3" single_back_color="color-xsdn" single_overlay_opacity="50" single_h_align_mobile="left" single_padding="3" single_title_dimension="h3" single_title_height="fontheight-978272" single_border="yes"][vc_button button_color="color-128210" radius="btn-circle" outline="yes" link="url:http%3A%2F%2F3mdeb.kleder.co%2Fnews-ideas%2F|||"]Read more stories[/vc_button][/vc_column][/vc_row][vc_row row_height_percent="0" override_padding="yes" h_padding="2" top_padding="4" bottom_padding="4" back_color="color-128210" back_image="157" back_repeat="no-repeat" back_attachment="fixed" back_position="center center" overlay_alpha="50" gutter_size="3" shift_y="0" back_size="initial" el_class="emb-cta-section"][vc_column width="1/1"][vc_row_inner][vc_column_inner column_width_use_pixel="yes" position_vertical="middle" align_horizontal="align_center" gutter_size="3" overlay_alpha="50" medium_width="0" mobile_width="0" shift_x="0" shift_y="0" z_index="0" width="1/1" column_width_pixel="990"][vc_column_text]
+
+<h2 style="text-align: center">If you're a hardware manufacturer or a tech startup looking for high quality development solutions for your innovative products, 3mdeb is the team you need to talk to.</h2>
+
+[/vc_column_text][uncode_block id="51" inside_column="yes"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]
