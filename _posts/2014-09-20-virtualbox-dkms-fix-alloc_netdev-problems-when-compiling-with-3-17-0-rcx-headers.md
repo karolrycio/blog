@@ -12,7 +12,7 @@ tags: [ ]
 categories:
   - Linux
   - Debian
-  - Virtualbox
+  - VirtualBox
 ---
 Intro
 -----
