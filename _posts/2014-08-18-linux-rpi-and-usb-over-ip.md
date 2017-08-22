@@ -11,7 +11,7 @@ post_date: 2014-08-18 21:26:37
 tags: [ ]
 categories:
   - Linux
-  - RaspberryPi
+  - Raspberry Pi
   - USB
 ---
 Trying to google 'USB over IP' doesn't give much except some business web pages that give
