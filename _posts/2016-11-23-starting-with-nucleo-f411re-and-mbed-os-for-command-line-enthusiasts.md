@@ -16,7 +16,7 @@ categories:
   - Embedded
   - Mbed
   - Nucleo
-  - Cortex-m4
+  - Cortex-M4
 ---
 When I first time read about mbed OS I was really sceptical, especially idea of
 having web browser as my IDE and compiler in the cloud seems to be very scary
