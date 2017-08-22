@@ -15,7 +15,7 @@ categories:
   - Coreboot
   - Embedded
   - Debian
-  - RaspberryPi
+  - Raspberry Pi
   - APU2
 ---
 In [previous post](2016/03/12/pxe-server-with-raspberry-pi-1/) I described how
