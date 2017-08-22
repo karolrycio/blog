@@ -15,7 +15,7 @@ tags: [ ]
 categories:
   - Embedded
   - Atmel
-  - Samg55
+  - SAMG55
   - Ecc508a
   - Firmware
   - Security
