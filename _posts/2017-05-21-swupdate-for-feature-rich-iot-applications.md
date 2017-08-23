@@ -45,7 +45,7 @@ partitions, which always leaves us with at least one copy of correct software.
 Core of developed update systems is usually similar to the one presented on the
 graph below.
 
-![](http://3mdeb.kleder.co/wp-content/uploads/2017/07/update_flow-1.png)
+![update_flow](http://3mdeb.kleder.co/wp-content/uploads/2017/07/update_flow-1.png)
 
 ## What is SWUpdate?
 
