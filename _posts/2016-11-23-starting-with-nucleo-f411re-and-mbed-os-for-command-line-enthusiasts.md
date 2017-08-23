@@ -52,7 +52,7 @@ the world. Community is big but it is still not so vibrant as ie. RIoT.
 Below I want to present Linux user experience from my first contact with mbed
 OS on Nucleo-F411RE platform.
 
-![](http://3mdeb.kleder.co/wp-content/uploads/2017/07/nucleo-F411RE.jpg)
+![nucleo-F411RE](http://3mdeb.kleder.co/wp-content/uploads/2017/07/nucleo-F411RE.jpg)
 
 ## First contact
 
