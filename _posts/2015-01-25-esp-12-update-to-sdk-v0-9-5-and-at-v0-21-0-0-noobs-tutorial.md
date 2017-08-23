@@ -30,14 +30,14 @@ AT+GMR
 OK
 ```
 
-##ESP-12 firmware update pin configuration
+## ESP-12 firmware update pin configuration
 
 <a class="fancybox" rel="group" href="/assets/images/esp-12-update.jpg"><img src="/assets/images/esp-12-update.jpg" alt="" /></a>
 
 As picture presents in addition to normal operation we have to pull down GPIO0
 and pull up GPIO2.
 
-##Upgrade using binaries from Espressif
+## Upgrade using binaries from Espressif
 
 To upgrade you can use binaries that where delivered in zip packaged and python [esptool](). Run following commands:
 
@@ -124,7 +124,7 @@ OK
 
 Of course you will need the toolchain to use new SDK.
 
-##Toolchain
+## Toolchain
 
 [esp-open-sdk](https://github.com/pfalcon/esp-open-sdk) is probably easiest to
 use toolchain that I found for ESP8266. `esp-open-sdk` puts together steps
@@ -231,7 +231,7 @@ which you can use to flash your ESP8266 using `esptool`:
 ../../esptool/esptool.py write_flash 0x00000 eagle.flash.bin 0x40000 eagle.irom0text.bin
 ```
 
-##Summary
+## Summary
 
 Thanks for reading. Hope that this post fill the gap that some of beginner can
 experience when goolging through straight forward tutorial about playing with
