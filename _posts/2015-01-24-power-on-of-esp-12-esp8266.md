@@ -39,12 +39,12 @@ Because this board came in SMD package I found that
 [ElectroDragon](http://www.electrodragon.com/) provides also adapter to solder
 module and easily expose pins.
 
-<a class="fancybox" rel="group" href="http://3mdeb.kleder.co/wp-content/uploads/2017/07/esp-12-adapter.jpg"><img src="http://3mdeb.kleder.co/wp-content/uploads/2017/07/esp-12-adapter.jpg" alt="" /></a>
+![esp-12-adapter](http://3mdeb.kleder.co/wp-content/uploads/2017/07/esp-12-adapter.jpg)
 
 After applying my soldering-fu I get rewarding result.
 
 
-<a class="fancybox" rel="group" href="http://3mdeb.kleder.co/wp-content/uploads/2017/07/esp-12-soldered.jpg"><img src="http://3mdeb.kleder.co/wp-content/uploads/2017/07/esp-12-soldered.jpg" alt="" /></a>
+![esp-12-soldered](http://3mdeb.kleder.co/wp-content/uploads/2017/07/esp-12-soldered.jpg)
 
 ##Wiring
 
@@ -56,9 +56,9 @@ Because I didn't have u shape solderless jumpers to make connection clean I
 splitted old Ethernet cable and get this:
 
 
-<a class="fancybox" rel="group" href="http://3mdeb.kleder.co/wp-content/uploads/2017/07/u-shape-jumpers.jpg"><img src="http://3mdeb.kleder.co/wp-content/uploads/2017/07/u-shape-jumpers.jpg" alt="" /></a>
+![u-shape-jumpers](http://3mdeb.kleder.co/wp-content/uploads/2017/07/u-shape-jumpers.jpg)
 
-<a class="fancybox" rel="group" href="http://3mdeb.kleder.co/wp-content/uploads/2017/07/esp-12-breadboard.jpg"><img src="http://3mdeb.kleder.co/wp-content/uploads/2017/07/esp-12-breadboard.jpg" alt="" /></a>
+![esp-12-breadboard](http://3mdeb.kleder.co/wp-content/uploads/2017/07/esp-12-breadboard.jpg)
 
 Check connections couple of time to make sure that everything works fine. As
 USB UART I used FT232RL based module. Current provided by USB UART module can
@@ -80,7 +80,7 @@ this may indicate that you need reset try `AT+RST<Ctrl-M><Ctrl-J>`. You
 should get something like this:
 
 
-<a class="fancybox" rel="group" href="http://3mdeb.kleder.co/wp-content/uploads/2017/07/esp-12-minicom-1.png"><img src="http://3mdeb.kleder.co/wp-content/uploads/2017/07/esp-12-minicom-1.png" /></a>
+![esp-12-minicom-1](http://3mdeb.kleder.co/wp-content/uploads/2017/07/esp-12-minicom-1.png)
 
 There are lot of other commands like `AT+GMR` which give you firmware version.
 More commands you can find
