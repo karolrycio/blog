@@ -33,13 +33,11 @@ I'm personally very interested in all categories related to those news:
   days, we just love to build connected embedded devices. Building this kind of
   devices is inherently related with firmware deployment, provisioning and
   update problems.
-
 * AWS - truly it is had to find similar level of quality and feature-richness
   and because I was lucky to invest my time and work with grandfather of AWS
   IoT (namely 2lemetry ThingFabric) I naturally try to follow this trend and
   make sure 3mdeb customers use best in class product in IoT cloud segment. To
   provide that service we try to be on track with all news related to AWS IoT.
-
 * Security - there will be not so much work for Embedded System Consultants if
   IoT will be rejected because of security issues. I'm sure I don't have to
   convince anyone about important of security. Key is to see typical flow that
