@@ -115,7 +115,7 @@ enter `node-auth-basic` project properties and got to `Device` tab, then use
 G55 devices are not visible if not change `Show devices` to `All Parts`. Result
 should look like this:
 
-![Alt text](http://3mdeb.kleder.co/wp-content/uploads/2017/07/atmel_studio_01.png)
+![Atmel Studio](http://3mdeb.kleder.co/wp-content/uploads/2017/07/atmel_studio_01.png)
 
 I can only imagine how outdated this post will be with next version of Atmel
 Studio.
