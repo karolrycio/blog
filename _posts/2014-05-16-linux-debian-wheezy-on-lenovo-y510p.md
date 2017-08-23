@@ -37,7 +37,7 @@ other parameters, except RAM expansion possibilities, are the same.
 Today I have it on my desk and trying to install Debian Wheezy. I put Debian
 netinst in drive and get wonderful UEFI message :)
 
-{% img center http://3mdeb.kleder.co/wp-content/uploads/2017/07/cdrom-blocked.jpg 450 450 'image' 'images' %}
+![](http://3mdeb.kleder.co/wp-content/uploads/2017/07/cdrom-blocked.jpg)
 
 I figure out that I have to disable my last days favourite feature from M$ -
 namely Secure Boot. I was surprised when I realized that there is no hot key to
@@ -59,7 +59,7 @@ option, which cleans keys database. Don't panic your database of
 vendor keys will not disappear you can restore it anytime you want using
 `Restore Factory Keys`. BTW I didn't found any information about it in `User Manual`.
 
-{% img center http://3mdeb.kleder.co/wp-content/uploads/2017/07/uefi-security.jpg 640 400 'image' 'images' %}
+![uefi-security](http://3mdeb.kleder.co/wp-content/uploads/2017/07/uefi-security.jpg)
 
 ## Installation
 
@@ -112,6 +112,6 @@ you won't deal with problems simply use Mint or Ubuntu there is much better
 support there. By the way I think that I'm immune to problems with my operating
 system ;)
 
-{% img center http://3mdeb.kleder.co/wp-content/uploads/2017/07/lenovo-y510p.jpg 640 400 'image' 'images' %}
+![lenovo-y510p](http://3mdeb.kleder.co/wp-content/uploads/2017/07/lenovo-y510p.jpg)
 
 Thanks for reading.
