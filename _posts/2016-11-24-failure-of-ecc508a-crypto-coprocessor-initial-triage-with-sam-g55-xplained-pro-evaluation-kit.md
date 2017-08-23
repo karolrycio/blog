@@ -118,7 +118,7 @@ G55 devices are not visible if not change `Show devices` to `All Parts`. Result
 should look like this:
 
 {% img center http://3mdeb.kleder.co/wp-content/uploads/2017/07/atmel_studio_01.png 640 400 'image' 'images' %}
-![](http://3mdeb.kleder.co/wp-content/uploads/2017/07/atmel_studio_01.png)
+!(http://3mdeb.kleder.co/wp-content/uploads/2017/07/atmel_studio_01.png)
 
 I can only imagine how outdated this post will be with next version of Atmel
 Studio.
