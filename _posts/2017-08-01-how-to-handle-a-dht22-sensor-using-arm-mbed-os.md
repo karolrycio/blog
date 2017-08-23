@@ -228,7 +228,7 @@ returning `DHT_READ_BIT_ERROR`. The reason is the same as mentioned previously
 in [Start signal and sensor response](#start-signal-and-sensor-response).
 Checking the waveform of data line leads to following results:
 
-<a class="fancybox" rel="group" href="/assets/images/dht22-datatransfer.png"><img src="/assets/images/dht22-datatransfer.png" alt="" /></a>
+<a class="fancybox" rel="group" href="http://3mdeb.kleder.co/wp-content/uploads/2017/07/dht22-datatransfer.png"><img src="http://3mdeb.kleder.co/wp-content/uploads/2017/07/dht22-datatransfer.png" alt="" /></a>
 
 Picture above shows a fragment of data bits transfer. The voltage level
 durations are clearly going beyond the acceptable scope. For example, the 64.42
