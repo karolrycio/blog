@@ -69,7 +69,7 @@ provide most useful informations. IMHO good choice is `fG!` gdbinit shared on
 x86. To switch to ARM mode inside gdb simple use `arm` command. Output looks
 pretty awesome:
 
-<a class="fancybox" rel="group" href="/assets/images/gdbinit.png"><img src="/assets/images/gdbinit.png" alt="" /></a>
+<a class="fancybox" rel="group" href="http://3mdeb.kleder.co/wp-content/uploads/2017/07/gdbinit.png"><img src="http://3mdeb.kleder.co/wp-content/uploads/2017/07/gdbinit.png" alt="" /></a>
 
 ## Noob dead end
 

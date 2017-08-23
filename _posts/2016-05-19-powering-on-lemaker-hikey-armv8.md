@@ -88,7 +88,7 @@ less then 48h.
 
 After wiring up with TXB0104 everything seems to work ok.
 
-<a class="fancybox" rel="group" href="/assets/images/hikey_setup.png"><img src="/assets/images/hikey_setup.png" alt="" /></a>
+<a class="fancybox" rel="group" href="http://3mdeb.kleder.co/wp-content/uploads/2017/07/hikey_setup.png"><img src="http://3mdeb.kleder.co/wp-content/uploads/2017/07/hikey_setup.png" alt="" /></a>
 
 Note that board use 2 UARTs. `UART0` for bootloader development. This is
 connector with not typical pitch (2.0mm) and `UART3` as debug port for Linux
@@ -105,7 +105,7 @@ forward with that budget solution.
 Board is pre-installed with Debian, so +1 for choice. It boots smooth and you
 can also see bootloader logs.
 
-<a class="fancybox" rel="group" href="/assets/images/hikey_screen.png"><img src="/assets/images/hikey_screen.png" alt="" /></a>
+<a class="fancybox" rel="group" href="http://3mdeb.kleder.co/wp-content/uploads/2017/07/hikey_screen.png"><img src="http://3mdeb.kleder.co/wp-content/uploads/2017/07/hikey_screen.png" alt="" /></a>
 
 On top there is bootloader on bottom booted Debian. Bootloader logs came from
 [OP-TEE Trusted OS](https://github.com/OP-TEE/optee_os),

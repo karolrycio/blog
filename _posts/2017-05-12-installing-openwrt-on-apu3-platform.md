@@ -39,7 +39,7 @@ APU3 has 3 mPcie slots. Unfortunately it supports PCI express only on slot
 using some cheap Ralink RT5370 based USB dongle WiFi adapter.
 `mPCIe 3` slot will be used for mSata drive.
 
-<a class="fancybox" rel="group" href="/assets/images/apu3_overall.jpg"><img src="/assets/images/apu3_overall.jpg" width=800 alt="" /></a>
+<a class="fancybox" rel="group" href="http://3mdeb.kleder.co/wp-content/uploads/2017/07/apu3_overall.jpg"><img src="http://3mdeb.kleder.co/wp-content/uploads/2017/07/apu3_overall.jpg" width=800 alt="" /></a>
 
 For the OS drive, I'll use some generic µSD card with adapter.
 
@@ -341,7 +341,7 @@ The second adapter is connected to the USB port on the back of the device.
 It's some cheap Ralink RT5370 based chip, which are popular and in nice
 form factor (small footprint and removable antenna).
 
-<a class="fancybox" rel="group" href="/assets/images/apu3_wifi_adapter.jpg"><img src="/assets/images/apu3_wifi_adapter.jpg" height=500 alt="" /></a>
+<a class="fancybox" rel="group" href="http://3mdeb.kleder.co/wp-content/uploads/2017/07/apu3_wifi_adapter.jpg"><img src="http://3mdeb.kleder.co/wp-content/uploads/2017/07/apu3_wifi_adapter.jpg" height=500 alt="" /></a>
 
 Using the `lsusb` it's detected like that:
 
@@ -508,7 +508,7 @@ Accepted connection from 192.168.1.121, port 60032
 
 ## Completed setup
 
-<a class="fancybox" rel="group" href="/assets/images/apu3_complete.jpg"><img src="/assets/images/apu3_complete.jpg" width=800 alt="" /></a>
+<a class="fancybox" rel="group" href="http://3mdeb.kleder.co/wp-content/uploads/2017/07/apu3_complete.jpg"><img src="http://3mdeb.kleder.co/wp-content/uploads/2017/07/apu3_complete.jpg" width=800 alt="" /></a>
 
 ## Summary
 

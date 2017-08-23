@@ -32,7 +32,7 @@ OK
 
 ## ESP-12 firmware update pin configuration
 
-<a class="fancybox" rel="group" href="/assets/images/esp-12-update.jpg"><img src="/assets/images/esp-12-update.jpg" alt="" /></a>
+<a class="fancybox" rel="group" href="http://3mdeb.kleder.co/wp-content/uploads/2017/07/esp-12-update.jpg"><img src="http://3mdeb.kleder.co/wp-content/uploads/2017/07/esp-12-update.jpg" alt="" /></a>
 
 As picture presents in addition to normal operation we have to pull down GPIO0
 and pull up GPIO2.
