@@ -1,6 +1,8 @@
 ---
 ID: 62906
-post_title: 'ESP-12 update to SDK v0.9.5 and AT v0.21.0.0 &#8211; noobs tutorial'
+post_title: >
+  ESP-12 update to SDK v0.9.5 and AT
+  v0.21.0.0 – noobs tutorial
 author: Piotr Król
 post_excerpt: ""
 layout: post
@@ -32,7 +34,7 @@ OK
 
 ## ESP-12 firmware update pin configuration
 
-<a class="fancybox" rel="group" href="http://3mdeb.kleder.co/wp-content/uploads/2017/07/esp-12-update.jpg"><img src="http://3mdeb.kleder.co/wp-content/uploads/2017/07/esp-12-update.jpg" alt="" /></a>
+![esp-12-update](http://3mdeb.kleder.co/wp-content/uploads/2017/07/esp-12-update.jpg)
 
 As picture presents in addition to normal operation we have to pull down GPIO0
 and pull up GPIO2.
