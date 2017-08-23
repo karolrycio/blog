@@ -47,7 +47,6 @@ SWO     (pin 6)  |-x             | .
 -----------------+               +------------------
 ```
 
-{% img center http://3mdeb.kleder.co/wp-content/uploads/2017/07/nrf51822_stlink.jpg 640 400 'image' 'images' %}
 ![tytul obrazka](http://3mdeb.kleder.co/wp-content/uploads/2017/07/nrf51822_stlink.jpg)
 
 Both boards should be connected to host's USB ports. USB port on BLE400 is used
