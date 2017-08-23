@@ -152,7 +152,7 @@ OLED1 Xplained Pro Documentation
 Summary
 -------
 
-![hello_world](http://3mdeb.kleder.co/wp-content/uploads/2017/07/hello_world.png)
+![helloworld_0](http://3mdeb.kleder.co/wp-content/uploads/2017/07/helloworld_0.jpg)
 
 As you can see, starting with `Atmel SAMG55 Xplained Pro` can be easy. I hope
 that provided information are easy to read, and useful. If they are not,
