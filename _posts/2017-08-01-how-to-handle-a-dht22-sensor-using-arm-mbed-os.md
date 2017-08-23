@@ -153,7 +153,7 @@ monitor the sensor's data line. The result occurred to be little surprising. The
 data line waveform I captured is showed below. The sampling frequency was set to
 12MHz.
 
-<a class="fancybox" rel="group" href="/wp-content/uploads/2017/07/dht22-response.png"><img src="/wp-content/uploads/2017/07/dht22-response.png" alt="" /></a>
+<a class="fancybox" rel="group" href="http://3mdeb.kleder.co/wp-content/uploads/2017/07/dht22-response.png"><img src="http://3mdeb.kleder.co/wp-content/uploads/2017/07/dht22-response.png" alt="" /></a>
 
 The sensor pulled the line down after ca. 22 microseconds, which is appropriate.
 But then the voltage level durations differ slightly, they are 1.5 microseconds
