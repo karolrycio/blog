@@ -105,16 +105,16 @@ every time will lend in shell ?
 
 On booting screen hit `<Esc>`.
 
-<a class="fancybox" rel="group" href="http://3mdeb.kleder.co/wp-content/uploads/2017/07/tiano_boot.png"><img src="http://3mdeb.kleder.co/wp-content/uploads/2017/07/tiano_boot.png" alt="" /></a>
+![tiano_boot](http://3mdeb.kleder.co/wp-content/uploads/2017/07/tiano_boot.png)
 
 You should be in main menu of UEFI setup:
 
-<a class="fancybox" rel="group" href="http://3mdeb.kleder.co/wp-content/uploads/2017/07/uefi_setup.png"><img src="http://3mdeb.kleder.co/wp-content/uploads/2017/07/uefi_setup.png" alt="" /></a>
+![uefi_setup](http://3mdeb.kleder.co/wp-content/uploads/2017/07/uefi_setup.png)
 
 Go through `Boot Maintenance Manager -> Boot Options -> Change Boot Order`,
 select `Change Boot Order` and hit `<Enter>`. Then using `+/-` keys move `EFI Internal Shell` to the top.
 
-<a class="fancybox" rel="group" href="http://3mdeb.kleder.co/wp-content/uploads/2017/07/boot_order.png"><img src="http://3mdeb.kleder.co/wp-content/uploads/2017/07/boot_order.png" alt="" /></a>
+![boot_order](http://3mdeb.kleder.co/wp-content/uploads/2017/07/boot_order.png)
 
 Do not forget to save configuration with `<F10>`.
 
@@ -125,7 +125,7 @@ To boot OVMF I'm using Laszlo's slightly modified script which can be found
 
 After booting to UEFI Shell we should look something like this:
 
-<a class="fancybox" rel="group" href="http://3mdeb.kleder.co/wp-content/uploads/2017/07/uefi_shell.png"><img src="http://3mdeb.kleder.co/wp-content/uploads/2017/07/uefi_shell.png" alt="" /></a>
+![uefi_shell](http://3mdeb.kleder.co/wp-content/uploads/2017/07/uefi_shell.png)
 
 Note `FS0:` in mapping table list - this is our `app.disk`.
 
@@ -137,7 +137,7 @@ HelloWorld.efi
 ```
 
 Result should look like this:
-<a class="fancybox" rel="group" href="http://3mdeb.kleder.co/wp-content/uploads/2017/07/hello_world.png"><img src="http://3mdeb.kleder.co/wp-content/uploads/2017/07/hello_world.png" alt="" /></a>
+![hello_world](http://3mdeb.kleder.co/wp-content/uploads/2017/07/hello_world.png)
 
 NOTE: If your result is different then make sure to check last lines of
 `app.ovmf.log` it can give you some hints.
