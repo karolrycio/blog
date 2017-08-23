@@ -162,7 +162,7 @@ Just execute this command in your shell. If you missed that message run `make`
 again it should skip all already compiled parts and display final message
 again.
 
-##Toolchain usage
+## Toolchain usage
 
 To use toolchain with example code from `v0.9.5` SDK you can simply:
 
