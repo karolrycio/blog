@@ -8,9 +8,10 @@ permalink: >
   http://3mdeb.kleder.co/productivity/splitting-my-personal-repository/
 published: true
 post_date: 2012-03-14 23:26:00
-tags: [ ]
+tags:
+  - productivity
 categories:
-  - Productivity
+  - Miscellaneous
 ---
 After writing a few posts in which my workspace scripts could be useful, I 
 realized that I should split blog works from the scripts that can be useful to 

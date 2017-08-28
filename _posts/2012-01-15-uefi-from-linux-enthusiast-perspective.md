@@ -8,9 +8,10 @@ permalink: >
   http://3mdeb.kleder.co/uefi/uefi-from-linux-enthusiast-perspective/
 published: true
 post_date: 2012-01-15 23:04:00
-tags: [ ]
-categories:
+tags:
   - UEFI
+categories:
+  - Miscellaneous
 ---
 Another interesting topic with which I am dealing with recently is the
 [UEFI](http://www.uefi.org/home/). As we read on wikipedia: "The Unified

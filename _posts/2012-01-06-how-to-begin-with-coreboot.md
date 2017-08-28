@@ -8,9 +8,10 @@ permalink: >
   http://3mdeb.kleder.co/coreboot/how-to-begin-with-coreboot/
 published: true
 post_date: 2012-01-06 14:23:00
-tags: [ ]
+tags:
+  - coreboot
 categories:
-  - Coreboot
+  - Firmware
 ---
 About a month ago I started my adventure with coreboot. As [coreboot
 home](http://www.coreboot.org/) page says "coreboot is a Free Software project

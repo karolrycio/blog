@@ -1,8 +1,7 @@
 ---
 ID: 62670
 post_title: >
-  First steps to improve work productivity
-  in Linux environment
+  First steps to improve work productivity in Linux environment
 author: Piotr Król
 post_excerpt: ""
 layout: post
@@ -10,9 +9,10 @@ permalink: >
   http://3mdeb.kleder.co/productivity/first-steps-to-improve-work-productivity-in-linux-environment/
 published: true
 post_date: 2012-02-05 03:08:00
-tags: [ ]
+tags:
+  - productivity
 categories:
-  - Productivity
+  - Miscellaneous
 ---
 The problem encountered on several occasions over several months. Now it is time to deal with it. How did this happen? As always, resources were not sufficient, and if we can not increase the amount of resources we must strive to optimize their use.In this case, it was about time.  
     

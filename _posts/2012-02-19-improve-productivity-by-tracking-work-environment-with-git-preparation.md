@@ -8,10 +8,11 @@ permalink: >
   http://3mdeb.kleder.co/productivity/improve-productivity-by-tracking-work-environment-with-git-preparation/
 published: true
 post_date: 2012-02-19 21:12:00
-tags: [ ]
-categories:
-  - Productivity
+tags:
+  - productivity
   - Linux
+categories:
+  - Miscellaneous
 ---
 _Update_: My repository is available 
 [here](https://github.com/pietrushnic/workspace.git).

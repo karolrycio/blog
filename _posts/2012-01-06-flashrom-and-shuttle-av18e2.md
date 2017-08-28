@@ -8,9 +8,10 @@ permalink: >
   http://3mdeb.kleder.co/coreboot/flashrom-and-shuttle-av18e2/
 published: true
 post_date: 2012-01-06 14:31:00
-tags: [ ]
+tags: 
+  - coreboot
 categories:
-  - Coreboot
+  - Firmware
 ---
 During Christmas break I found an old unused motherboard in my home, right away
 I thought that it maybe useful as learning environment for coreboot. First you

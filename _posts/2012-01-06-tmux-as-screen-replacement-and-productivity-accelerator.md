@@ -11,15 +11,14 @@ permalink: >
 published: true
 post_date: 2012-01-06 14:31:00
 tags:
+  - Linux
   - tmux
   - productivity
   - termianl multiplexer
   - solarized
   - pipe-pane
 categories:
-  - Productivity
-  - Linux
-  - Tmux
+  - Miscellaneous
 ---
 As I wrote in [previous post](/2013/03/19/debian-switching-to-unstable) I 
 switched from GNU screen to [tmux](http://tmux.sourceforge.net). I use it for a 

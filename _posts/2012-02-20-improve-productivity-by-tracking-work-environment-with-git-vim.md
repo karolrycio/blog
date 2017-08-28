@@ -8,10 +8,11 @@ permalink: >
   http://3mdeb.kleder.co/productivity/improve-productivity-by-tracking-work-environment-with-git-vim/
 published: true
 post_date: 2012-02-20 21:43:00
-tags: [ ]
-categories:
-  - Productivity
+tags:
+  - productivity
   - Linux
+categories:
+  - Miscellaneous
 ---
 In this post I try to describe my vim configuration procedure and how it is 
 connected with git. The whole concept is based on keeping all the configuration 

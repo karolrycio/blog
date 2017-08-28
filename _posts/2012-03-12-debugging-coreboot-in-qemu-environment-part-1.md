@@ -10,9 +10,9 @@ published: true
 post_date: 2012-03-12 21:30:00
 tags:
   - coreboot
-  - qemu
+  - QEMU
 categories:
-  - Coreboot
+  - Firmware
 ---
 First of all I use testing version of Debian - wheezy. Clone coreboot repository:  
 ```
