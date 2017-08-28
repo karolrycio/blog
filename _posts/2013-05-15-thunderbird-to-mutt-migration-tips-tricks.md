@@ -8,10 +8,11 @@ permalink: >
   http://3mdeb.kleder.co/mutt/thunderbird-to-mutt-migration-tips-tricks/
 published: true
 post_date: 2013-05-15 18:40:00
-tags: [ ]
+tags:  
+  - mutt
+  - productivty
 categories:
-  - Mutt
-  - Productivty
+  - Miscellaneous
 ---
 ### Preface ###
 I migrate with my working environment to laptop. My workstation going older and 

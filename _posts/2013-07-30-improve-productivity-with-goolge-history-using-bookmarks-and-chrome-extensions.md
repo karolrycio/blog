@@ -1,8 +1,7 @@
 ---
 ID: 62861
 post_title: >
-  Improve productivity with Goolge history
-  using bookmarks and Chrome extensions
+  Improve productivity with Goolge history using bookmarks and Chrome extensions
 author: Piotr Król
 post_excerpt: ""
 layout: post
@@ -12,17 +11,16 @@ published: true
 post_date: 2013-07-30 02:40:00
 tags:
   - productivity
-  - google history
+  - google
 categories:
-  - Productivity
+  - Miscellaneous
 ---
-<p class=intro>
+
 The idea of this post is very simple (as usually)  and I wonder why I didn't thought
 about it earlier. The point is to use history of your Google queries to improve
 productivity. Most of things that we google can be replaced for example by browser
 extensions, bookmarks or rss feeds. Thats how we can gain few additional free seconds on 
 each google-type-click cycle.
-</p>
 
 ##Statistics##
 

@@ -8,11 +8,12 @@ permalink: >
   http://3mdeb.kleder.co/linux/linux-rpi-and-usb-over-ip/
 published: true
 post_date: 2014-08-18 21:26:37
-tags: [ ]
-categories:
+tags: 
   - Linux
   - Raspberry Pi
   - USB
+categories:
+  - Firmware
 ---
 Trying to google 'USB over IP' doesn't give much except some business web pages that give
 you it as a service. This brings some information about potential on the

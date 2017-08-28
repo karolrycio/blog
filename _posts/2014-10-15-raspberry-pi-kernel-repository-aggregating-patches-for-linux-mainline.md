@@ -10,10 +10,11 @@ permalink: >
   http://3mdeb.kleder.co/linux/raspberry-pi-kernel-repository-aggregating-patches-for-linux-mainline/
 published: true
 post_date: 2014-10-15 23:23:11
-tags: [ ]
-categories:
+tags:
   - Linux
   - RaspberryPi
+categories:
+  - OS Dev
 ---
 Since several months I'm trying to find my way to embedded Linux programming.
 My hardware set was very limited I had only one board that can be called

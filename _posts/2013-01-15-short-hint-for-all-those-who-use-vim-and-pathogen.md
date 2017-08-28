@@ -1,8 +1,7 @@
 ---
 ID: 62786
 post_title: >
-  Short hint for all those who use vim and
-  pathogen
+  Short hint for all those who use vim and pathogen
 author: Piotr Król
 post_excerpt: ""
 layout: post
@@ -10,11 +9,12 @@ permalink: >
   http://3mdeb.kleder.co/productivity/short-hint-for-all-those-who-use-vim-and-pathogen/
 published: true
 post_date: 2013-01-15 11:51:00
-tags: [ ]
-categories:
-  - Productivity
+tags:  
+  - productivity
   - Linux
-  - Vim
+  - vim
+categories:
+  - Miscellaneous
 ---
 Today, after updating my wokspace to latest version I encounter below error during vim running:
 ```

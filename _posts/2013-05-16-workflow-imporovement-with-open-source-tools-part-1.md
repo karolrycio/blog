@@ -15,10 +15,7 @@ tags:
   - workflow
   - taskwarrior
 categories:
-  - Productivity
-  - Linux
-  - Mutt
-  - Taskwarrior
+  - Miscellaneous
 ---
 ### Introduction ###
 

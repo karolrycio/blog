@@ -8,9 +8,11 @@ permalink: >
   http://3mdeb.kleder.co/embedded/building-arm-toolchain-part-1-libs-and-binutils/
 published: true
 post_date: 2012-03-20 23:25:00
-tags: [ ]
+tags: 
+  - embedded
 categories:
-  - Embedded
+  - OS Dev
+  - App Dev
 ---
 Searching the Internet for information on how to build arm toolchain from 
 scratch I realize that it is very hard to find  information about this matter 

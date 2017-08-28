@@ -9,11 +9,12 @@ permalink: >
 published: true
 post_date: 2012-05-13 14:13:00
 tags:
+  - Linux
   - mutt
   - gpg
   - password
 categories:
-  - Linux
+  - Miscellaneous
 ---
 This is second post of mutt tutorial series. As in the [previous post](/2012/05/13/mutt-tutorial-part-1-setup-imap-account)
 for below information I need to thank Kousik for posts about [gpg](http://nixtricks.wordpress.com/2009/10/04/introduction-to-encryption-of-files-using-gpg/)

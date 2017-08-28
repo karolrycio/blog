@@ -8,9 +8,13 @@ permalink: >
   http://3mdeb.kleder.co/rails/sqlite3-gem-not-supported-on-heroku/
 published: true
 post_date: 2012-11-18 21:16:00
-tags: [ ]
-categories:
+tags: 
+  - Ruby on Rails
+  - Ruby
   - Rails
+  - Debian
+categories:
+  - App Dev
 ---
 When I tried to deploy second part of [RoR tutorial](http://ruby.railstutorial.org/chapters/a-demo-app#top)
 to Heroku I get this error:

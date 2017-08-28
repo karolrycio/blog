@@ -9,15 +9,13 @@ permalink: >
 published: true
 post_date: 2013-06-07 01:27:00
 tags:
-  - qemu
-  - embedded
-  - linux
-  - virtual development board
-categories:
   - Linux
-  - Embedded
+  - embedded
   - QEMU
   - VDB
+  - virtual development board
+categories:
+  - Firmware
 ---
 * [Preface](/2013/06/07/intro-to-virtual-development-board-building/#preface)
 * [First question: How to start ?](/2013/06/07/intro-to-virtual-development-board-building/#first-question)

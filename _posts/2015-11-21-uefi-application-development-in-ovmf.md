@@ -8,11 +8,12 @@ permalink: >
   http://3mdeb.kleder.co/uefi/uefi-application-development-in-ovmf/
 published: true
 post_date: 2015-11-21 11:18:52
-tags: [ ]
-categories:
+tags:
   - UEFI
   - QEMU
   - OVMF
+categories:
+  - Firmware
 ---
 OVMF (_Open Virtual Machine Firmware_) is a project that aim is to enable UEFI
 support in various virutal machines. According to

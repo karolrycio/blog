@@ -9,10 +9,11 @@ permalink: >
 published: true
 post_date: 2013-03-30 03:27:00
 tags:
-  - Music
+  - productivity
+  - music
   - programming
 categories:
-  - Productivity
+  - Miscellaneous
 ---
 Of course this is strongly associated with personal taste but I will write my 
 experience. 

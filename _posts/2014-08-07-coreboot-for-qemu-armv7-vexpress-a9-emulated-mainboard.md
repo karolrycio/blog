@@ -10,10 +10,11 @@ permalink: >
   http://3mdeb.kleder.co/coreboot/coreboot-for-qemu-armv7-vexpress-a9-emulated-mainboard/
 published: true
 post_date: 2014-08-07 23:08:39
-tags: [ ]
-categories:
-  - Coreboot
+tags: 
+  - coreboot
   - QEMU
+categories:
+  - Firmware
 ---
 Recently I came back to look into coreboot. Mainly because low level is fun and
 skills related to firmware (even coreboot) starting get attention on freelance

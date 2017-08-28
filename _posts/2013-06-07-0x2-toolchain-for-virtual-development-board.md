@@ -9,14 +9,13 @@ permalink: >
 published: true
 post_date: 2013-06-07 08:42:00
 tags:
+  - Linux
   - embedded
+  - VDB
   - toolchain
   - virtual development board
 categories:
-  - Linux
-  - Embedded
-  - VDB
-  - Toolchain
+  - Miscellaneous
 ---
 ## Table of contents ##
 

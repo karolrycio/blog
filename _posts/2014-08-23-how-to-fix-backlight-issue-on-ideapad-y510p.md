@@ -1,8 +1,7 @@
 ---
 ID: 62886
 post_title: >
-  How to fix backlight issue on IdeaPad
-  y510p
+  How to fix backlight issue on IdeaPad y510p
 author: Piotr Król
 post_excerpt: ""
 layout: post
@@ -10,10 +9,11 @@ permalink: >
   http://3mdeb.kleder.co/linux/how-to-fix-backlight-issue-on-ideapad-y510p/
 published: true
 post_date: 2014-08-23 23:49:03
-tags: [ ]
-categories:
+tags: 
   - Linux
   - Debian
+categories:
+  - OS Dev  
 ---
 Today I decide to switch to latest kernel (`3.17-rc1`) on my IdeaPad y510p. I
 hit only one annoying problem until now - after booting my main screen was dimmed. I

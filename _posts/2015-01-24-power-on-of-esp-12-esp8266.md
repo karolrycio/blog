@@ -8,10 +8,12 @@ permalink: >
   http://3mdeb.kleder.co/embedded/power-on-of-esp-12-esp8266/
 published: true
 post_date: 2015-01-24 00:25:05
-tags: [ ]
+tags:
+  - embedded
+  - ESP8266
 categories:
-  - Embedded
-  - Esp8266
+  - Firmware
+  - IoT
 ---
 ESP8266 is a SoC made by [Espressif](https://espressif.com). For last couple of
 months this chip is a rockstar of [HackADay](http://hackaday.com/) and makers

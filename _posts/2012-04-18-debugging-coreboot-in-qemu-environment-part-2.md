@@ -10,10 +10,9 @@ published: true
 post_date: 2012-04-18 22:41:00
 tags:
   - coreboot
-  - qemu
-categories:
-  - Coreboot
   - QEMU
+categories:
+  - Firmware
 ---
 In [previous post](/2012/03/12/debugging-coreboot-in-qemu-enviroment) 
 `coreboot` was configured and installed. Here we try to establish good debugging 

@@ -8,11 +8,13 @@ permalink: >
   http://3mdeb.kleder.co/linux/emulate-rapberry-pi-2-in-qemu/
 published: true
 post_date: 2015-12-30 23:02:30
-tags: [ ]
-categories:
+tags:
   - Linux
   - Embedded
   - QEMU
+categories:
+  - OS Dev
+  - App Dev
 ---
 In the process of planning system testing for one of my clients I found that
 someone from Microsoft published patches with [BCM2836 support](https://lists.gnu.org/archive/html/qemu-arm/2015-12/msg00078.html) to

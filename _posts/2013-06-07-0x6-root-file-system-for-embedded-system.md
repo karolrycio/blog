@@ -9,14 +9,14 @@ permalink: >
 published: true
 post_date: 2013-06-07 10:40:00
 tags:
-  - linux
+  - Linux
+  - embedded
+  - VDB
   - virtual development board
   - rootfs
   - busybox
 categories:
-  - Linux
-  - Embedded
-  - VDB
+  - OS Dev
 ---
 ## Table of contents ##
 

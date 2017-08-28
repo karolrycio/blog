@@ -8,9 +8,13 @@ permalink: >
   http://3mdeb.kleder.co/linux/mutt-tutorial-part-4-html-mails-address-book-and-other-useful-features/
 published: true
 post_date: 2012-05-13 17:21:00
-tags: [ ]
-categories:
+tags:
   - Linux
+  - mutt
+  - gpg
+  - password
+categories:
+  - Miscellaneous
 ---
 How mutt can handle mails in html format ? Takling about html mail handling is 
 talking about handling any type of [Multipurpose Internet Mail Extensions](http://en.wikipedia.org/wiki/MIME).

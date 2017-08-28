@@ -8,9 +8,10 @@ permalink: >
   http://3mdeb.kleder.co/productivity/vim-as-a-blogger-editor/
 published: true
 post_date: 2012-04-21 12:55:00
-tags: [ ]
+tags:
+  - productivity
 categories:
-  - Productivity
+  - Miscellaneous
 ---
 [Blogger.vim](https://github.com/ujihisa/blogger.vim) is a vim plugin for interfacing with Google's Blogger. Below I will use my workspace git [repository](https://github.com/pietrushnic/workspace). To use this plugin we need pretty new ruby >= 1.9.2 and gems nokogiri and net-https-wrapper. Let's install latest possible ruby for Debian, before that make sure you have latest updates:  
 

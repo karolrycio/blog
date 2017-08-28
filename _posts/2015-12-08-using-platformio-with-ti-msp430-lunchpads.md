@@ -10,12 +10,14 @@ permalink: >
   http://3mdeb.kleder.co/embedded/using-platformio-with-ti-msp430-lunchpads/
 published: true
 post_date: 2015-12-08 13:16:36
-tags: [ ]
-categories:
-  - Embedded
+tags:
+  - embedded
   - MSP430
   - TI
   - PlatformIO
+categories:
+  - Firmware
+  - IoT
 ---
 [PlatformIO](http://platformio.org/) is very interesting project that aim to
 solve very important problem of configuring deployment environment for embedded

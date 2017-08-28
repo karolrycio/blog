@@ -8,11 +8,12 @@ permalink: >
   http://3mdeb.kleder.co/raspberrypi/pxe-server-with-raspberry-pi-1/
 published: true
 post_date: 2016-03-12 17:42:42
-tags: [ ]
-categories:
+tags:
   - RaspberryPi
   - PXE
   - iPXE
+categories:
+  - App Dev
 ---
 Recent days we get the announcement about releasing Raspberry Pi 3. Those of
 you who play with embedded systems or just try to make things probably still

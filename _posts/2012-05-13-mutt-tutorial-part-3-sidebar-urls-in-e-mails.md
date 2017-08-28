@@ -8,9 +8,13 @@ permalink: >
   http://3mdeb.kleder.co/linux/mutt-tutorial-part-3-sidebar-urls-in-e-mails/
 published: true
 post_date: 2012-05-13 15:43:00
-tags: [ ]
-categories:
+tags:
   - Linux
+  - mutt
+  - gpg
+  - password
+categories:
+  - Miscellaneous
 ---
 Information in this post came from [lunar linux page](http://www.lunar-linux.org/mutt-sidebar/). Kudos to its author. In this 
 post I want to discuss two topics: sidebar and how to open urls form inside 

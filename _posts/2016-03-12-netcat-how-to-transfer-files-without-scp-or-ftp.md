@@ -8,10 +8,11 @@ permalink: >
   http://3mdeb.kleder.co/linux/netcat-how-to-transfer-files-without-scp-or-ftp/
 published: true
 post_date: 2016-03-12 15:19:44
-tags: [ ]
-categories:
+tags:
   - Linux
   - Networking
+categories:
+  - App Dev
 ---
 One of my recent customers provided me hardware with custom Linux system.
 Distribution used on this hardware was very limited there was no developers

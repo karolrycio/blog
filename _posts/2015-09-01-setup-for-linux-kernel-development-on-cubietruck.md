@@ -1,8 +1,7 @@
 ---
 ID: 62911
 post_title: >
-  Setup for Linux kernel development on
-  Cubietruck
+  Setup for Linux kernel development on Cubietruck
 author: Piotr Król
 post_excerpt: ""
 layout: post
@@ -10,12 +9,13 @@ permalink: >
   http://3mdeb.kleder.co/linux/setup-for-linux-kernel-development-on-cubietruck/
 published: true
 post_date: 2015-09-01 21:48:55
-tags: [ ]
-categories:
+tags:
   - Linux
-  - Embedded
+  - embedded
   - Cubietruck
   - A20
+categories:
+  - OS Dev
 ---
 During last couple of months I see quite big interest in building products on
 [A20](http://linux-sunxi.org/A20) SoC. This chip can be bought for 6USD in

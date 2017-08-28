@@ -9,15 +9,13 @@ permalink: >
 published: true
 post_date: 2013-06-07 08:27:00
 tags:
-  - qemu
-  - linux
+  - QEMU
+  - Linux
+  - VDB
   - virtual development board
   - Emulation
 categories:
-  - Linux
-  - Embedded
-  - QEMU
-  - VDB
+  - Miscellaneous
 ---
 ## Table of contents ##
 

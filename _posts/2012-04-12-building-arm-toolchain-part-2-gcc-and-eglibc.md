@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2012-04-12 23:54:00
 tags:
+  - embbeded
   - toolchain
   - gcc
   - eglibc
@@ -16,7 +17,8 @@ tags:
   - arm
   - build
 categories:
-  - Embedded
+  - OS Dev
+  - App Dev
 ---
 Unfortunately after few tries of cross compiling eglibc using different source 
 for instructions I alway end with hard to solve issues. Luckily, in the sources 

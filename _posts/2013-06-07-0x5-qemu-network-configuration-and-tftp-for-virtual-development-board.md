@@ -9,16 +9,14 @@ permalink: >
 published: true
 post_date: 2013-06-07 10:36:00
 tags:
-  - qemu
-  - virtual development board
-  - tftp
-  - networking
-categories:
-  - Embedded
+  - embedded
   - QEMU
   - VDB
   - Tftp
-  - Networking
+  - networking
+categories:
+  - OS Dev
+  - App Dev
 ---
 ## Table of contents ##
 

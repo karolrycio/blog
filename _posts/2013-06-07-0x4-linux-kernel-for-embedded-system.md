@@ -9,15 +9,13 @@ permalink: >
 published: true
 post_date: 2013-06-07 10:33:00
 tags:
-  - embedded
-  - linux
-  - virtual development board
-  - kernel
-categories:
   - Linux
-  - Embedded
+  - embedded
   - QEMU
   - VDB
+  - kernel
+categories:
+  - OS Dev
 ---
 ## Table of contents ##
 

@@ -9,16 +9,13 @@ permalink: >
 published: true
 post_date: 2013-06-07 10:32:00
 tags:
-  - embedded
-  - linux
-  - u-boot
-  - virtual development board
-categories:
   - Linux
-  - Embedded
+  - embedded
   - QEMU
   - VDB
   - U-boot
+categories:
+  - Firmware
 ---
 ## Table of contents ##
 

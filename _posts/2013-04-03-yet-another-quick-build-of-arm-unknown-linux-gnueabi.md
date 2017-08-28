@@ -1,8 +1,7 @@
 ---
 ID: 62806
 post_title: >
-  Yet another quick build of
-  arm-unknown-linux-gnueabi
+  Yet another quick build of arm-unknown-linux-gnueabi
 author: Piotr Król
 post_excerpt: ""
 layout: post
@@ -11,14 +10,15 @@ permalink: >
 published: true
 post_date: 2013-04-03 19:00:00
 tags:
+  - embedded
   - crosstool-ng
-  - linux
+  - Linux
   - toolchain
   - arm-unknown-linux-gnueabi
   - arm
 categories:
-  - Linux
-  - Embedded
+  - OS Dev
+  - App Dev
 ---
 So I decide to check what is going on with 
 [crosstool-ng](http://crosstool-ng.org) and refresh my [old post](/2012/03/14/quick-build-of-arm-unknown-linux)

@@ -10,9 +10,13 @@ permalink: >
   http://3mdeb.kleder.co/uncategorized/prepare-for-ruby-on-rails-on-debian-wheezy/
 published: true
 post_date: 2012-11-18 18:18:00
-tags: [ ]
+tags: 
+  - Ruby on Rails
+  - Ruby
+  - Rails
+  - Debian
 categories:
-  - Uncategorized
+  - App Dev
 ---
 I start to learn Ruby on Rails. As always when you learn new programming 
 language toolchain is required. In this tutorial I will try to go through 
