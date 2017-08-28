@@ -8,12 +8,13 @@ permalink: >
   http://3mdeb.kleder.co/linux/linux-rpi-and-usb-over-ip-updated/
 published: true
 post_date: 2015-10-27 12:50:03
-tags: [ ]
-categories:
+tags: 
   - Linux
-  - Embedded
+  - embedded
   - RaspberryPi
   - Usbip
+categories:
+  - OS Dev
 ---
 Because of increasing interesting in USB over IP topic I decided to refresh my
 [old post](2014/08/18/linux-rpi-and-usb-over-ip/). I will focus on doing the

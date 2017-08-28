@@ -8,11 +8,12 @@ permalink: >
   http://3mdeb.kleder.co/uefi/powering-on-lemaker-hikey-armv8/
 published: true
 post_date: 2016-05-19 00:04:06
-tags: [ ]
-categories:
+tags: 
   - UEFI
-  - Embedded
+  - embedded
   - ARM
+categories:
+  - Firmware
 ---
 Embedded Systems Consultants have chance to live in interesting times. ARM
 expansion touch server market and UEFI coming to non-x86 platforms. Firmware

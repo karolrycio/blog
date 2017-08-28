@@ -10,14 +10,16 @@ permalink: >
   http://3mdeb.kleder.co/linux/nerves-project-triage-on-beaglebone-black/
 published: true
 post_date: 2017-03-10 22:53:55
-tags: [ ]
-categories:
+tags:
   - Linux
-  - Embedded
+  - embedded
   - BeagleBone Black
   - Nerves
   - Elixir
   - Erlang
+categories:
+  - Firmware
+  - OS Dev
 ---
 Recently one of my customers brought to my attention [Nerves](http://nerves-project.org).
 It aims to simplify use of Elixir (functional language leveraging Erlang VM) in

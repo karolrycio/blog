@@ -10,13 +10,14 @@ permalink: >
   http://3mdeb.kleder.co/coreboot/pc-engines-apu2-netboot-debian-installation/
 published: true
 post_date: 2016-03-26 14:27:38
-tags: [ ]
-categories:
-  - Coreboot
-  - Embedded
+tags:
+  - coreboot
+  - embedded
   - Debian
   - Raspberry Pi
   - APU2
+categories:
+  - OS Dev
 ---
 In [previous post](2016/03/12/pxe-server-with-raspberry-pi-1/) I described how
 to setup PXE server and boot Debian installer using it. I mentioned that

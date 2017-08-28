@@ -8,9 +8,10 @@ permalink: >
   http://3mdeb.kleder.co/productivity/directory-scheme-for-multiple-projects/
 published: true
 post_date: 2016-07-05 23:31:33
-tags: [ ]
+tags: 
+  - productivity
 categories:
-  - Productivity
+  - Miscellaneous
 ---
 How to keep clean organization while working on multiple projects ?
 -------------------------------------------------------------------

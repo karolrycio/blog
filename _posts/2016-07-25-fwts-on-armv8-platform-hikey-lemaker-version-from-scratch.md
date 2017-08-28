@@ -1,8 +1,7 @@
 ---
 ID: 62966
 post_title: >
-  FWTS on ARMv8 platform (HiKey LeMaker
-  version) from scratch
+  FWTS on ARMv8 platform (HiKey LeMaker version) from scratch
 author: Piotr Król
 post_excerpt: ""
 layout: post
@@ -10,12 +9,13 @@ permalink: >
   http://3mdeb.kleder.co/uefi/fwts-on-armv8-platform-hikey-lemaker-version-from-scratch/
 published: true
 post_date: 2016-07-25 14:13:02
-tags: [ ]
-categories:
+tags:
   - UEFI
   - Embedded
   - EDK2
   - ARMv8
+categories:
+  - Firmware
 ---
 This is second post from series about LeMaker version of HiKey board from
 96boards Customer Edition family. [Previous](2016/05/19/powering-on-96boards-compatible-lemaker-hikey-armv8-for-uefi-development/)

@@ -1,9 +1,7 @@
 ---
 ID: 63031
 post_title: >
-  Failure of ECC508A crypto coprocessor
-  initial triage with SAM G55 Xplained Pro
-  Evaluation Kit
+  Failure of ECC508A crypto coprocessor initial triage with SAM G55 Xplained Pro Evaluation Kit
 author: Piotr Król
 post_excerpt: ""
 layout: post
@@ -11,15 +9,15 @@ permalink: >
   http://3mdeb.kleder.co/embedded/failure-of-ecc508a-crypto-coprocessor-initial-triage-with-sam-g55-xplained-pro-evaluation-kit/
 published: true
 post_date: 2016-11-24 15:37:26
-tags: [ ]
-categories:
-  - Embedded
+tags:
+  - embedded
   - Atmel
   - SAMG55
   - Ecc508a
-  - Firmware
   - Security
   - AWS
+categories:
+  - Firmware
   - IoT
 ---
 Some time ago (around August 2016) embedded community media were hit with hype

@@ -1,8 +1,7 @@
 ---
 ID: 63066
 post_title: >
-  SWUpdate for feature-rich IoT
-  applications
+  SWUpdate for feature-rich IoT applications
 author: Maciej Pijanowski
 post_excerpt: ""
 layout: post
@@ -10,12 +9,12 @@ permalink: >
   http://3mdeb.kleder.co/linux/swupdate-for-feature-rich-iot-applications/
 published: true
 post_date: 2017-05-21 12:00:00
-tags: [ ]
-categories:
+tags:
   - Linux
-  - IoT
   - Update
   - Swupdate
+categories:
+  - App Dev
 ---
 When you work with embedded systems long enough, sooner or later you realize
 that some sort of update mechanism is required. This is especially true when

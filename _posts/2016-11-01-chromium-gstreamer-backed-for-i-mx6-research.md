@@ -1,8 +1,7 @@
 ---
 ID: 62971
 post_title: >
-  Chromium GStreamer backed for i.MX6
-  research
+  Chromium GStreamer backed for i.MX6 research
 author: Piotr Król
 post_excerpt: ""
 layout: post
@@ -10,14 +9,15 @@ permalink: >
   http://3mdeb.kleder.co/linux/chromium-gstreamer-backed-for-i-mx6-research/
 published: true
 post_date: 2016-11-01 00:13:32
-tags: [ ]
-categories:
+tags:
   - Linux
-  - Embedded
+  - embedded
   - iMX6
   - Chromium
   - GStreamer
-  - Qt
+  - QT
+categories:
+  - App Dev
 ---
 Recently I work on i.MX6 based project that requires video hardware
 decoding in web browser (best case in [QtWebEngine](https://wiki.qt.io/QtWebEngine), which is entire Chromium

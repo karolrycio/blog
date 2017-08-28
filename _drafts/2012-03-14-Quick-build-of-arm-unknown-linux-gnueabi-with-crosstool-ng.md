@@ -1,22 +1,21 @@
 ---
 ID: 62712
 post_title: >
-  Quick build of arm-unknown-linux-gnueabi
-  with crosstool-ng
+  Quick build of arm-unknown-linux-gnueabi with crosstool-ng
 author: admin
 post_excerpt: ""
 layout: post
 permalink: http://3mdeb.kleder.co/?p=62712
-published: false
+published: true
 tags:
   - crosstool-ng
   - embedded
-  - linux
+  - Linux
   - toolchain
   - arm-unknown-linux-gnueabi
 categories:
-  - Linux
-  - Embedded
+  - OS Dev
+  - App Dev
 ---
 You might be surprised at how much you have to make to correctly build 
 `arm-unknown-linux-gnueabi` config based toolchain with [crosstool-ng](http://crosstool-ng.org/). As you can 

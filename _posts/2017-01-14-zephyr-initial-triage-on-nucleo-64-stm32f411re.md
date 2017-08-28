@@ -10,12 +10,14 @@ permalink: >
   http://3mdeb.kleder.co/linux/zephyr-initial-triage-on-nucleo-64-stm32f411re/
 published: true
 post_date: 2017-01-14 22:14:10
-tags: [ ]
-categories:
+tags:
   - Linux
-  - Embedded
+  - embedded
   - Zephyr
   - STM32
+categories:
+  - Firmware
+  - IoT
 ---
 As I mention in [previous post](2016/11/23/starting-with-mdeb-os-for-linux-and-command-line-enthusiast)
 [Zephyr RTOS](https://www.zephyrproject.org/) is an interesting initiative

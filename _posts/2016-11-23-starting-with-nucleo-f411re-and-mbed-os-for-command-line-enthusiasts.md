@@ -10,13 +10,15 @@ permalink: >
   http://3mdeb.kleder.co/linux/starting-with-nucleo-f411re-and-mbed-os-for-command-line-enthusiasts/
 published: true
 post_date: 2016-11-23 16:01:48
-tags: [ ]
-categories:
+tags:
   - Linux
-  - Embedded
+  - embedded
   - Mbed
   - Nucleo
   - Cortex-M4
+categories:
+  - Firmware
+  - IoT
 ---
 When I first time read about mbed OS I was really sceptical, especially idea of
 having web browser as my IDE and compiler in the cloud seems to be very scary

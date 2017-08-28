@@ -10,11 +10,13 @@ permalink: >
   http://3mdeb.kleder.co/linux/nrf51822-programming-with-openocd-under-linux/
 published: true
 post_date: 2017-01-22 00:13:00
-tags: [ ]
-categories:
+tags:
   - Linux
   - Nrf51822
   - Openocd
+categories:
+  - Firmware
+  - IoT
 ---
 Some time ago we bought [BLE400 from Waveshare] as probably one of the cheapest 
 option to enter nRF51822 market. As our readers know, we prefer to use the Linux 

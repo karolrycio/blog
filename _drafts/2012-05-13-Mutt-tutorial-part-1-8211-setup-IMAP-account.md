@@ -5,10 +5,14 @@ author: admin
 post_excerpt: ""
 layout: post
 permalink: http://3mdeb.kleder.co/?p=62749
-published: false
-tags: [ ]
-categories:
+published: true
+tags:
   - Linux
+  - mutt
+  - gpg
+  - password
+categories:
+  - Miscellaneous
 ---
 Mutt is one of those programs that make people call you a linux geek, nerd or a 
 snob. This is because using TUI or command line tools in world of fancy GUI for 

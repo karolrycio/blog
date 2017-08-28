@@ -8,12 +8,14 @@ permalink: >
   http://3mdeb.kleder.co/pcengines/installing-openwrt-on-apu3-platform/
 published: true
 post_date: 2017-05-12 12:00:00
-tags: [ ]
-categories:
+tags:
   - PC Engines
   - Openwrt
   - APU3
   - Rt5370
+categories:
+  - Firmware
+  - Os Dev
 ---
 This guide should be considered as a simple walk-through for using APU3
 platform in some generic use-cases. I'm trying to explain how to work with

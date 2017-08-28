@@ -8,11 +8,13 @@ permalink: >
   http://3mdeb.kleder.co/embedded/samg55-oled1-xplained-pro-hello-world/
 published: true
 post_date: 2016-10-20 00:00:00
-tags: [ ]
-categories:
-  - Embedded
+tags:
+  - embedded
   - Atmel
   - SAMG55
+categories:
+  - Firmware
+  - IoT
 ---
 SAMG55 - recognition in the field
 ---------------------------------
