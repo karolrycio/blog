@@ -15,13 +15,13 @@ tags:
   - Rt5370
 categories:
   - Firmware
-  - Os Dev
+  - OS Dev
 ---
 This guide should be considered as a simple walk-through for using APU3
 platform in some generic use-cases. I'm trying to explain how to work with
 the device and use it in a generic manner. There is a part about the coreboot
 firmware, which could be used as a reference of how to start customizing it
-for own purposes.
+for own purposes. 
 
 ## Configuring the hardware
 

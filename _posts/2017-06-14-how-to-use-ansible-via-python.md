@@ -35,7 +35,7 @@ libraries which operate and work YAML.
 Ansible works collaterally on many systems in your infrastructure, so it is
 important to specify a roster to keep `hosts`. This list is named `inventory`,
 which can be in one of many formats. For this example, the format is an
-`INI-like` and is saved in `/etc/ansible/hosts`.
+`INI-like` and is saved in `/etc/ansible/hosts`. 
 
 ```ini
 mail.example.com

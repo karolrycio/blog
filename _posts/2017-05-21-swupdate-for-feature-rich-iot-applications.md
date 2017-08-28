@@ -34,7 +34,7 @@ usually leads to more issues than it has advantages. When number of possible
 packages reaches hundreds or thousands, it becomes impossible to test
 application stability with various revisions of those packages. Approach where
 we release one thoroughly tested rootfs image is both more reliable and less
-time consuming in a long term.
+time consuming in a long term. 
 
 ## Our vision of update system
 
