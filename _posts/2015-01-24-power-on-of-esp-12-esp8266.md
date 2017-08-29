@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/firmware/power-on-of-esp-12-esp8266/
+  http://3mdeb.kleder.co/blog/firmware/power-on-of-esp-12-esp8266/
 published: true
 post_date: 2015-01-24 00:25:05
 tags:

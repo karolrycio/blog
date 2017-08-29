@@ -7,7 +7,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/firmware/zephyr-initial-triage-on-nucleo-64-stm32f411re/
+  http://3mdeb.kleder.co/blog/firmware/zephyr-initial-triage-on-nucleo-64-stm32f411re/
 published: true
 post_date: 2017-01-14 22:14:10
 tags:

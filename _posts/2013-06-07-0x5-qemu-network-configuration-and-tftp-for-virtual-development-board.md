@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/embedded/0x5-qemu-network-configuration-and-tftp-for-virtual-development-board/
+  http://3mdeb.kleder.co/blog/embedded/0x5-qemu-network-configuration-and-tftp-for-virtual-development-board/
 published: true
 post_date: 2013-06-07 10:36:00
 tags:

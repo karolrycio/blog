@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/coreboot/how-to-begin-with-coreboot/
+  http://3mdeb.kleder.co/blog/coreboot/how-to-begin-with-coreboot/
 published: true
 post_date: 2012-01-06 14:23:00
 tags:

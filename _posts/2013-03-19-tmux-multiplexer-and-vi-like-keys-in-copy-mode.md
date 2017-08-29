@@ -6,7 +6,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/linux/tmux-multiplexer-and-vi-like-keys-in-copy-mode/
+  http://3mdeb.kleder.co/blog/linux/tmux-multiplexer-and-vi-like-keys-in-copy-mode/
 published: true
 post_date: 2013-03-19 16:30:00
 tags:

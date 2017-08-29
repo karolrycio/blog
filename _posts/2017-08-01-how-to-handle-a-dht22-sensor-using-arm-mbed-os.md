@@ -7,7 +7,7 @@ author: Michał Żygowski
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/firmware/how-to-handle-a-dht22-sensor-using-arm-mbed-os/
+  http://3mdeb.kleder.co/blog/firmware/how-to-handle-a-dht22-sensor-using-arm-mbed-os/
 published: true
 post_date: 2017-08-01 14:14:55
 tags:

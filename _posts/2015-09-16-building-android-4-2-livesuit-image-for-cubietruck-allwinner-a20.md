@@ -7,7 +7,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/os-dev/building-android-4-2-livesuit-image-for-cubietruck-allwinner-a20/
+  http://3mdeb.kleder.co/blog/os-dev/building-android-4-2-livesuit-image-for-cubietruck-allwinner-a20/
 published: true
 post_date: 2015-09-16 23:02:57
 tags:

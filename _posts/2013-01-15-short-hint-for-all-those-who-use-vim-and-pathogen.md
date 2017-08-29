@@ -6,7 +6,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/productivity/short-hint-for-all-those-who-use-vim-and-pathogen/
+  http://3mdeb.kleder.co/blog/productivity/short-hint-for-all-those-who-use-vim-and-pathogen/
 published: true
 post_date: 2013-01-15 11:51:00
 tags:  

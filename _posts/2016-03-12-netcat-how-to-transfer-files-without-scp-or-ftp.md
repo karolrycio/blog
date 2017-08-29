@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/linux/netcat-how-to-transfer-files-without-scp-or-ftp/
+  http://3mdeb.kleder.co/blog/linux/netcat-how-to-transfer-files-without-scp-or-ftp/
 published: true
 post_date: 2016-03-12 15:19:44
 tags:

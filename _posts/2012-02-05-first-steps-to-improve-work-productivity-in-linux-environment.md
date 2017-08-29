@@ -6,7 +6,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/productivity/first-steps-to-improve-work-productivity-in-linux-environment/
+  http://3mdeb.kleder.co/blog/productivity/first-steps-to-improve-work-productivity-in-linux-environment/
 published: true
 post_date: 2012-02-05 03:08:00
 tags:

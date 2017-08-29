@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/productivity/improve-productivity-by-tracking-work-environment-with-git-vim/
+  http://3mdeb.kleder.co/blog/productivity/improve-productivity-by-tracking-work-environment-with-git-vim/
 published: true
 post_date: 2012-02-20 21:43:00
 tags:

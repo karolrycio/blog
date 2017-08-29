@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/linux/mutt-tutorial-part-2-secure-login/
+  http://3mdeb.kleder.co/blog/linux/mutt-tutorial-part-2-secure-login/
 published: true
 post_date: 2012-05-13 14:13:00
 tags:

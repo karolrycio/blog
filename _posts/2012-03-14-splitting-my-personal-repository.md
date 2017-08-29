@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/productivity/splitting-my-personal-repository/
+  http://3mdeb.kleder.co/blog/productivity/splitting-my-personal-repository/
 published: true
 post_date: 2012-03-14 23:26:00
 tags:

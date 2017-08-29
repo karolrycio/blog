@@ -8,7 +8,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/firmware/failure-of-ecc508a-crypto-coprocessor-initial-triage-with-sam-g55-xplained-pro-evaluation-kit/
+  http://3mdeb.kleder.co/blog/firmware/failure-of-ecc508a-crypto-coprocessor-initial-triage-with-sam-g55-xplained-pro-evaluation-kit/
 published: true
 post_date: 2016-11-24 15:37:26
 tags:

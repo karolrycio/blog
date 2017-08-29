@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/linux/0x1-qemu-as-an-environment-for-embedded-board-emulation/
+  http://3mdeb.kleder.co/blog/linux/0x1-qemu-as-an-environment-for-embedded-board-emulation/
 published: true
 post_date: 2013-06-07 08:27:00
 tags:

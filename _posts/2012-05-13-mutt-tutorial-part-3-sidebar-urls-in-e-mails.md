@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/linux/mutt-tutorial-part-3-sidebar-urls-in-e-mails/
+  http://3mdeb.kleder.co/blog/linux/mutt-tutorial-part-3-sidebar-urls-in-e-mails/
 published: true
 post_date: 2012-05-13 15:43:00
 tags:

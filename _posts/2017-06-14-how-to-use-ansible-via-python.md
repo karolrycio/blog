@@ -5,7 +5,7 @@ author: Maciej Ruciński
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/python/how-to-use-ansible-via-python/
+  http://3mdeb.kleder.co/blog/python/how-to-use-ansible-via-python/
 published: true
 post_date: 2017-06-14 12:00:00
 tags:

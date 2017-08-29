@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/productivity/directory-scheme-for-multiple-projects/
+  http://3mdeb.kleder.co/blog/productivity/directory-scheme-for-multiple-projects/
 published: true
 post_date: 2016-07-05 23:31:33
 tags: 

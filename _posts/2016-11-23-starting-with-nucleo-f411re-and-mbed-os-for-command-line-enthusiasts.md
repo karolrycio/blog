@@ -7,7 +7,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/linux/starting-with-nucleo-f411re-and-mbed-os-for-command-line-enthusiasts/
+  http://3mdeb.kleder.co/blog/linux/starting-with-nucleo-f411re-and-mbed-os-for-command-line-enthusiasts/
 published: true
 post_date: 2016-11-23 16:01:48
 tags:

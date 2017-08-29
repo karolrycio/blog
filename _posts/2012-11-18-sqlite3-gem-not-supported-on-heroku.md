@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/rails/sqlite3-gem-not-supported-on-heroku/
+  http://3mdeb.kleder.co/blog/rails/sqlite3-gem-not-supported-on-heroku/
 published: true
 post_date: 2012-11-18 21:16:00
 tags: 

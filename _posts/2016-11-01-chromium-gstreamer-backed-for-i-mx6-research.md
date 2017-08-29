@@ -7,7 +7,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/app-dev/chromium-gstreamer-backed-for-i-mx6-research/
+  http://3mdeb.kleder.co/blog/app-dev/chromium-gstreamer-backed-for-i-mx6-research/
 published: true
 post_date: 2016-11-01 00:13:32
 tags:

@@ -6,7 +6,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/linux/how-to-download-videos-from-videos-linux-com/
+  http://3mdeb.kleder.co/blog/linux/how-to-download-videos-from-videos-linux-com/
 published: true
 post_date: 2012-04-06 22:48:00
 tags: 

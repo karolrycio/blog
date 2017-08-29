@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/os-dev/linux-rpi-and-usb-over-ip-updated/
+  http://3mdeb.kleder.co/blog/os-dev/linux-rpi-and-usb-over-ip-updated/
 published: true
 post_date: 2015-10-27 12:50:03
 tags:

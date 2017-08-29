@@ -7,7 +7,7 @@ author: Maciej Pijanowski
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/app-dev/swupdate-for-feature-rich-iot-applications/
+  http://3mdeb.kleder.co/blog/app-dev/swupdate-for-feature-rich-iot-applications/
 published: true
 post_date: 2017-05-21 12:00:00
 tags:

@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/productivity/hostname-generator/
+  http://3mdeb.kleder.co/blog/productivity/hostname-generator/
 published: true
 post_date: 2012-02-20 20:58:00
 tags:

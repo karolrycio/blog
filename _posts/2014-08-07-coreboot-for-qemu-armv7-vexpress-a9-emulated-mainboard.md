@@ -7,7 +7,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/coreboot/coreboot-for-qemu-armv7-vexpress-a9-emulated-mainboard/
+  http://3mdeb.kleder.co/blog/coreboot/coreboot-for-qemu-armv7-vexpress-a9-emulated-mainboard/
 published: true
 post_date: 2014-08-07 23:08:39
 tags: 

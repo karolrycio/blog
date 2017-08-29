@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/firmware/linux-rpi-and-usb-over-ip/
+  http://3mdeb.kleder.co/blog/firmware/linux-rpi-and-usb-over-ip/
 published: true
 post_date: 2014-08-18 21:26:37
 tags:

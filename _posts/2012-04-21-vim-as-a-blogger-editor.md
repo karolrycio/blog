@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/productivity/vim-as-a-blogger-editor/
+  http://3mdeb.kleder.co/blog/productivity/vim-as-a-blogger-editor/
 published: true
 post_date: 2012-04-21 12:55:00
 tags:

@@ -7,7 +7,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/firmware/fwts-on-armv8-platform-hikey-lemaker-version-from-scratch/
+  http://3mdeb.kleder.co/blog/firmware/fwts-on-armv8-platform-hikey-lemaker-version-from-scratch/
 published: true
 post_date: 2016-07-25 14:13:02
 tags:

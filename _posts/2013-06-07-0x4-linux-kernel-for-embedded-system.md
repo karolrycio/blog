@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/linux/0x4-linux-kernel-for-embedded-system/
+  http://3mdeb.kleder.co/blog/linux/0x4-linux-kernel-for-embedded-system/
 published: true
 post_date: 2013-06-07 10:33:00
 tags:

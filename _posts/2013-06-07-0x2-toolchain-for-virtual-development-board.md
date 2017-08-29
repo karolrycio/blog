@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/linux/0x2-toolchain-for-virtual-development-board/
+  http://3mdeb.kleder.co/blog/linux/0x2-toolchain-for-virtual-development-board/
 published: true
 post_date: 2013-06-07 08:42:00
 tags:

@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/embedded/building-arm-toolchain-part-1-libs-and-binutils/
+  http://3mdeb.kleder.co/blog/embedded/building-arm-toolchain-part-1-libs-and-binutils/
 published: true
 post_date: 2012-03-20 23:25:00
 tags: 

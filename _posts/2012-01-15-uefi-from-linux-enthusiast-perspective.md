@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/uefi/uefi-from-linux-enthusiast-perspective/
+  http://3mdeb.kleder.co/blog/uefi/uefi-from-linux-enthusiast-perspective/
 published: true
 post_date: 2012-01-15 23:04:00
 tags:

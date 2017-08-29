@@ -6,7 +6,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/linux/yet-another-quick-build-of-arm-unknown-linux-gnueabi/
+  http://3mdeb.kleder.co/blog/linux/yet-another-quick-build-of-arm-unknown-linux-gnueabi/
 published: true
 post_date: 2013-04-03 19:00:00
 tags:

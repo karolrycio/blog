@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/linux/mutt-tutorial-part-4-html-mails-address-book-and-other-useful-features/
+  http://3mdeb.kleder.co/blog/linux/mutt-tutorial-part-4-html-mails-address-book-and-other-useful-features/
 published: true
 post_date: 2012-05-13 17:21:00
 tags:

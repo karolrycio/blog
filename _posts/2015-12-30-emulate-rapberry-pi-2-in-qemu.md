@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/linux/emulate-rapberry-pi-2-in-qemu/
+  http://3mdeb.kleder.co/blog/linux/emulate-rapberry-pi-2-in-qemu/
 published: true
 post_date: 2015-12-30 23:02:30
 tags:

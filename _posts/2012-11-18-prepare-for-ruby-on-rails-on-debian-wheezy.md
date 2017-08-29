@@ -7,7 +7,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/uncategorized/prepare-for-ruby-on-rails-on-debian-wheezy/
+  http://3mdeb.kleder.co/blog/uncategorized/prepare-for-ruby-on-rails-on-debian-wheezy/
 published: true
 post_date: 2012-11-18 18:18:00
 tags: 

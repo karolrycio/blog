@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/embedded/building-arm-toolchain-part-2-gcc-and-eglibc/
+  http://3mdeb.kleder.co/blog/embedded/building-arm-toolchain-part-2-gcc-and-eglibc/
 published: true
 post_date: 2012-04-12 23:54:00
 tags:

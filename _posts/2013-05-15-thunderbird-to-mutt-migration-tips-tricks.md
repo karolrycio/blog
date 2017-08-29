@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/mutt/thunderbird-to-mutt-migration-tips-tricks/
+  http://3mdeb.kleder.co/blog/mutt/thunderbird-to-mutt-migration-tips-tricks/
 published: true
 post_date: 2013-05-15 18:40:00
 tags:  

@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/coreboot/debugging-coreboot-in-qemu-environment-part-2/
+  http://3mdeb.kleder.co/blog/coreboot/debugging-coreboot-in-qemu-environment-part-2/
 published: true
 post_date: 2012-04-18 22:41:00
 tags:

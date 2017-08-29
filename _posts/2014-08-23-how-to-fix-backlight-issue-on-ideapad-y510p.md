@@ -6,7 +6,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/linux/how-to-fix-backlight-issue-on-ideapad-y510p/
+  http://3mdeb.kleder.co/blog/linux/how-to-fix-backlight-issue-on-ideapad-y510p/
 published: true
 post_date: 2014-08-23 23:49:03
 tags: 

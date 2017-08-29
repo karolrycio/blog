@@ -7,7 +7,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/os-dev/pc-engines-apu2-netboot-debian-installation/
+  http://3mdeb.kleder.co/blog/os-dev/pc-engines-apu2-netboot-debian-installation/
 published: true
 post_date: 2016-03-26 14:27:38
 tags:

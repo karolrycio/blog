@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/linux/linux-debian-wheezy-on-lenovo-y510p/
+  http://3mdeb.kleder.co/blog/linux/linux-debian-wheezy-on-lenovo-y510p/
 published: true
 post_date: 2014-05-16 22:36:27
 tags:  

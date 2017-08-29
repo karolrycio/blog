@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/firmware/samg55-oled1-xplained-pro-hello-world/
+  http://3mdeb.kleder.co/blog/firmware/samg55-oled1-xplained-pro-hello-world/
 published: true
 post_date: 2016-10-20 00:00:00
 tags:

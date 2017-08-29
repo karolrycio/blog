@@ -6,7 +6,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/productivity/improve-productivity-with-goolge-history-using-bookmarks-and-chrome-extensions/
+  http://3mdeb.kleder.co/blog/productivity/improve-productivity-with-goolge-history-using-bookmarks-and-chrome-extensions/
 published: true
 post_date: 2013-07-30 02:40:00
 tags:

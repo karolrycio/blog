@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/uefi/uefi-application-development-in-ovmf/
+  http://3mdeb.kleder.co/blog/uefi/uefi-application-development-in-ovmf/
 published: true
 post_date: 2015-11-21 11:18:52
 tags:

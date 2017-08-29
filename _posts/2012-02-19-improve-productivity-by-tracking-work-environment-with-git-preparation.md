@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/productivity/improve-productivity-by-tracking-work-environment-with-git-preparation/
+  http://3mdeb.kleder.co/blog/productivity/improve-productivity-by-tracking-work-environment-with-git-preparation/
 published: true
 post_date: 2012-02-19 21:12:00
 tags:

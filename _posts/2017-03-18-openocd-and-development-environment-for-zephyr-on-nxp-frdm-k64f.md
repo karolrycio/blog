@@ -7,7 +7,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/firmware/openocd-and-development-environment-for-zephyr-on-nxp-frdm-k64f/
+  http://3mdeb.kleder.co/blog/firmware/openocd-and-development-environment-for-zephyr-on-nxp-frdm-k64f/
 published: true
 post_date: 2017-03-18 15:27:05
 tags:

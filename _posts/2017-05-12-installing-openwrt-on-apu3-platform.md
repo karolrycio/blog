@@ -5,7 +5,7 @@ author: Kamil Wcisło
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/firmware/installing-openwrt-on-apu3-platform/
+  http://3mdeb.kleder.co/blog/firmware/installing-openwrt-on-apu3-platform/
 published: true
 post_date: 2017-05-12 12:00:00
 tags:

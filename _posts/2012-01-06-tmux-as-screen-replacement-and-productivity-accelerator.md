@@ -7,7 +7,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/productivity/tmux-as-screen-replacement-and-productivity-accelerator/
+  http://3mdeb.kleder.co/blog/productivity/tmux-as-screen-replacement-and-productivity-accelerator/
 published: true
 post_date: 2012-01-06 14:31:00
 tags:

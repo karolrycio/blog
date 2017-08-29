@@ -7,7 +7,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/os-dev/setup-for-linux-kernel-development-on-cubietruck/
+  http://3mdeb.kleder.co/blog/os-dev/setup-for-linux-kernel-development-on-cubietruck/
 published: true
 post_date: 2015-09-01 21:48:55
 tags:

@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/linux/0x0-intro-to-virtual-development-board-building/
+  http://3mdeb.kleder.co/blog/linux/0x0-intro-to-virtual-development-board-building/
 published: true
 post_date: 2013-06-07 01:27:00
 tags:

@@ -7,7 +7,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/firmware/using-platformio-with-ti-msp430-lunchpads/
+  http://3mdeb.kleder.co/blog/firmware/using-platformio-with-ti-msp430-lunchpads/
 published: true
 post_date: 2015-12-08 13:16:36
 tags:

@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/productivity/music-for-programming/
+  http://3mdeb.kleder.co/blog/productivity/music-for-programming/
 published: true
 post_date: 2013-03-30 03:27:00
 tags:

@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/productivity/workflow-imporovement-with-open-source-tools-part-1/
+  http://3mdeb.kleder.co/blog/productivity/workflow-imporovement-with-open-source-tools-part-1/
 published: true
 post_date: 2013-05-16 22:16:00
 tags:
