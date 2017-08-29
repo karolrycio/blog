@@ -7,16 +7,17 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/linux/nerves-project-triage-on-beaglebone-black/
+  http://3mdeb.kleder.co/firmware/nerves-project-triage-on-beaglebone-black/
 published: true
 post_date: 2017-03-10 22:53:55
 tags:
-  - Linux
   - embedded
+  - linux
   - BeagleBone Black
   - Nerves
   - Elixir
   - Erlang
+  - Texas Instruments
 categories:
   - Firmware
   - OS Dev
