@@ -5,13 +5,14 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/uefi/powering-on-lemaker-hikey-armv8/
+  http://3mdeb.kleder.co/firmware/powering-on-lemaker-hikey-armv8/
 published: true
 post_date: 2016-05-19 00:04:06
-tags: 
-  - UEFI
+tags:
   - embedded
-  - ARM
+  - arm
+  - UEFI
+  - HiSilicon
 categories:
   - Firmware
 ---
