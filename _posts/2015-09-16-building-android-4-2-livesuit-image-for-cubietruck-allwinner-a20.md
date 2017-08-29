@@ -1,19 +1,21 @@
 ---
 ID: 62916
 post_title: >
-  Building Android 4.2 LiveSuit image for Cubietruck (Allwinner A20)
+  Building Android 4.2 LiveSuit image for
+  Cubietruck (Allwinner A20)
 author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/linux/building-android-4-2-livesuit-image-for-cubietruck-allwinner-a20/
+  http://3mdeb.kleder.co/os-dev/building-android-4-2-livesuit-image-for-cubietruck-allwinner-a20/
 published: true
 post_date: 2015-09-16 23:02:57
-tags: 
-  - Linux
+tags:
   - embedded
+  - linux
   - Cubietruck
   - Android
+  - Allwinner
 categories:
   - OS Dev
 ---
