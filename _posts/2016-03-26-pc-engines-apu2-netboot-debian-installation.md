@@ -17,6 +17,7 @@ tags:
   - Raspberry Pi
   - APU2
   - AMD
+  - Broadcom
 categories:
   - OS Dev
 ---
