@@ -7,13 +7,14 @@ author: Kamil Wcisło
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/linux/nrf51822-programming-with-openocd-under-linux/
+  http://3mdeb.kleder.co/firmware/nrf51822-programming-with-openocd-under-linux/
 published: true
 post_date: 2017-01-22 00:13:00
 tags:
-  - Linux
+  - linux
   - Nrf51822
   - Openocd
+  - Nordic
 categories:
   - Firmware
   - IoT
