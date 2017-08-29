@@ -15,7 +15,8 @@ tags:
   - virtual development board
   - Emulation
 categories:
-  - Miscellaneous
+  - OS Dev
+  - App Dev
 ---
 ## Table of contents ##
 

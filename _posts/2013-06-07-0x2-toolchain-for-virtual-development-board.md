@@ -15,7 +15,8 @@ tags:
   - toolchain
   - virtual development board
 categories:
-  - Miscellaneous
+  - OS Dev
+  - App Dev
 ---
 ## Table of contents ##
 
