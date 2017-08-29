@@ -5,13 +5,14 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/raspberrypi/pxe-server-with-raspberry-pi-1/
+  http://3mdeb.kleder.co/app-dev/pxe-server-with-raspberry-pi-1/
 published: true
 post_date: 2016-03-12 17:42:42
 tags:
   - RaspberryPi
   - PXE
   - iPXE
+  - Broadcom
 categories:
   - App Dev
 ---
