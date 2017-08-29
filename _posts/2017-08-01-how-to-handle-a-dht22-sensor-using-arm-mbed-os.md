@@ -1,12 +1,13 @@
 ---
 ID: 63076
 post_title: >
-  How to handle a DHT22 sensor using ARM mbed OS?
+  How to handle a DHT22 sensor using ARM
+  mbed OS?
 author: Michał Żygowski
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/mbed/how-to-handle-a-dht22-sensor-using-arm-mbed-os/
+  http://3mdeb.kleder.co/firmware/how-to-handle-a-dht22-sensor-using-arm-mbed-os/
 published: true
 post_date: 2017-08-01 14:14:55
 tags:
@@ -16,6 +17,7 @@ tags:
   - Measurements
   - DHT22
   - 1-wire
+  - STMicroelectronics
 categories:
   - Firmware
   - IoT
