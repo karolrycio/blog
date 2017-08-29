@@ -1,12 +1,13 @@
 ---
 ID: 63056
 post_title: >
-  OpenOCD and development environment for Zephyr on NXP FRDM-K64F
+  OpenOCD and development environment for
+  Zephyr on NXP FRDM-K64F
 author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/embedded/openocd-and-development-environment-for-zephyr-on-nxp-frdm-k64f/
+  http://3mdeb.kleder.co/firmware/openocd-and-development-environment-for-zephyr-on-nxp-frdm-k64f/
 published: true
 post_date: 2017-03-18 15:27:05
 tags:
@@ -16,6 +17,7 @@ tags:
   - NXP
   - FRDM-K64F
   - Segger
+  - NXP/Freescale
 categories:
   - Firmware
   - IoT
