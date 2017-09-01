@@ -7,7 +7,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/blog/os-dev/raspberry-pi-kernel-repository-aggregating-patches-for-linux-mainline/
+  http://3mdeb.kleder.co/os-dev/raspberry-pi-kernel-repository-aggregating-patches-for-linux-mainline/
 published: true
 post_date: 2014-10-15 23:23:11
 tags:
@@ -62,7 +62,7 @@ build and release process of `rpi-dt-linux`.
 How to use it ?
 ---------------
 
-##User
+## User
 
 If you simply want to try new kernel on your RPi then install `rpi-update`, by:
 
