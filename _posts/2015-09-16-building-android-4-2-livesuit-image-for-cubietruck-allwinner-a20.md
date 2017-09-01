@@ -7,7 +7,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/blog/os-dev/building-android-4-2-livesuit-image-for-cubietruck-allwinner-a20/
+  http://3mdeb.kleder.co/os-dev/building-android-4-2-livesuit-image-for-cubietruck-allwinner-a20/
 published: true
 post_date: 2015-09-16 23:02:57
 tags:
@@ -28,7 +28,7 @@ notes for me and all of you lost in this madness.
 Hopefully below steps can build foundation for future development and
 improvements.
 
-##Get the code
+## Get the code
 
 It took me couple of googling hours to realize that key was to carefully search
 cubietech sever. Finally I found [this](http://dl.cubieboard.org/model/cubietruck/Source/Android/README).
@@ -47,7 +47,7 @@ cd lichee
 ./build.sh -p sun7i_android
 ```
 
-##Lichee compilation error
+## Lichee compilation error
 
 World would be too beautiful if everything would work right out of the box, so
 I hit this very informative build error:
@@ -109,7 +109,7 @@ After above change repeated build command finish without errors.
 ./build.sh -p sun7i_android
 ```
 
-##Android
+## Android
 
 I assume you directory layout looks like this:
 
@@ -167,7 +167,7 @@ extract-bsp
 make -j$(nproc)
 ```
 
-###Wrong make version
+### Wrong make version
 
 Android expects make in version 3.81 or 3.82 and recent distros (like my Debian
 stretch/sid) have make>=4.0. Problem signature looks like this:
@@ -207,7 +207,7 @@ index 87488f452a9d..ce366bee6ced 100644
  # Absolute path of the present working direcotry.
 ```
 
-###Java SE 1.6 required
+### Java SE 1.6 required
 
 If your distro is not prepared you can hit something like this:
 
@@ -245,7 +245,7 @@ sudo update-alternatives --config java  #correct is /usr/lib/jvm/java-6-oracle/j
 sudo update-alternatives --config javac #correct is /usr/lib/jvm/java-6-oracle/bin/javac
 ```
 
-###Missing dependencies
+### Missing dependencies
 
 If you will hit some weird compiler errors like this:
 
@@ -292,7 +292,7 @@ Install system fs image: out/target/product/sugar-cubietruck/system.img
 out/target/product/sugar-cubietruck/system.img+out/target/product/sugar-cubietruck/obj/PACKAGING/recovery_patch_intermediates/recovery_from_boot.p maxsize=548110464 blocksize=4224 total=403588136 reserve=5537664
 ```
 
-###Pack image
+### Pack image
 
 ```
 pack
@@ -309,11 +309,11 @@ pack finish
 /home/pietrushnic/projects/3mdeb/cubietruck/cubietruck_android/a20-android4.2_android
 ```
 
-##Image installation
+## Image installation
 
 Image can be installed using LiveSuit. Flashing instructions can be found on [sunxi wiki](http://linux-sunxi.org/LiveSuit).
 
-##Summary
+## Summary
 
 ![ct-android-1](http://3mdeb.kleder.co/wp-content/uploads/2017/07/ct-android-1.jpg)
 
