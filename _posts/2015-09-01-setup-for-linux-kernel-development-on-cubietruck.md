@@ -7,7 +7,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/blog/os-dev/setup-for-linux-kernel-development-on-cubietruck/
+  http://3mdeb.kleder.co/os-dev/setup-for-linux-kernel-development-on-cubietruck/
 published: true
 post_date: 2015-09-01 21:48:55
 tags:
@@ -47,7 +47,7 @@ Some configs and scripts can be found on [github repo](https://github.com/pietru
 
 ![ct-dev](http://3mdeb.kleder.co/wp-content/uploads/2017/07/ct-dev.jpg)
 
-##Table of contents
+## Table of contents
 
 * [General approach](#general)
 * [Quick TFTP setup](#tftp)
@@ -59,7 +59,7 @@ Some configs and scripts can be found on [github repo](https://github.com/pietru
 * [Let's put it all together](#sdcard)
 * [Known issues](#issues)
 
-##Prerequisites
+## Prerequisites
 
 * Linux development workstation (I use Debian stretch/sid)
 * USB to TTL serial adapter - best would be with original FT232RL, but Chinese
@@ -71,7 +71,7 @@ Some configs and scripts can be found on [github repo](https://github.com/pietru
 * HDMI or VGA monitor - nice to have
 
 <a name="general"></a>
-##General approach
+## General approach
 
 Bootloader (U-Boot) obtain IP address dynamically then using hard coded
 information about TFTP server it downloads script which contain instruction
@@ -106,7 +106,8 @@ sudo mkdir -p /srv/tftp/ct/{ml,sunxi}
 ```
 
 &lt;a name=&quot;nfs&quot;&gt;&lt;/a&gt;
-##Quick NFS setup
+
+## Quick NFS setup
 
 ```
 sudo apt-get install nfs-kernel-server
@@ -151,7 +152,7 @@ compilation terminated.
 ```
 
 &lt;a name=&quot;uboot&quot;&gt;&lt;/a&gt;
-##U-Boot (2015.10-rc2)
+## U-Boot (2015.10-rc2)
 
 ```
 git clone git://git.denx.de/u-boot.git
@@ -196,9 +197,9 @@ make: *** No rule to make target &#039;include/config/auto.conf&#039;, needed by
 means that you incorrectly set [toolchain](#toolchain).
 
 <a name="linux"></a>
-##Linux kernel
+## Linux kernel
 
-###sunxi-3.4 kernel
+### sunxi-3.4 kernel
 
 ```
 git clone -b sunxi-3.4 --depth 1 https://github.com/linux-sunxi/linux-sunxi.git
@@ -216,7 +217,7 @@ make ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf- INSTALL_MOD_PATH=output modules
 cd ..
 ```
 
-####script.bin
+#### script.bin
 
 ```
 git clone git://github.com/linux-sunxi/sunxi-tools.git
@@ -254,7 +255,7 @@ To generate `script.bin`:
 ../sunxi-tools/fex2bin sys_config/a20/cubietruck.fex script.bin
 ```
 
-###Mainline kernel (sunxi-next 387a2c191af6 4.2.0-rc4)
+### Mainline kernel (sunxi-next 387a2c191af6 4.2.0-rc4)
 
 ```
 git clone git://github.com/mripard/linux.git -b sunxi-next
@@ -265,7 +266,7 @@ make ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf- INSTALL_MOD_PATH=output modules
 ```
 
 <a name="rootfs"></a>
-##Rootfs
+## Rootfs
 
 Based on [Olimex guide](https://olimex.wordpress.com/2014/07/21/how-to-create-bare-minimum-debian-wheezy-rootfs-from-scratch/).
 
@@ -317,9 +318,9 @@ sudo XZ_OPT=-9 tar cJf rootfs.tar.xz rootfs
 
 
 <a name="sdcard"></a>
-##Let's put it all together
+## Let's put it all together
 
-###Prepare SD card
+### Prepare SD card
 
 Assuming your SD card is on `/dev/sdc`
 
@@ -375,7 +376,7 @@ sudo umount /mnt
 
 Now you can put your SD card into Cubietruck.
 
-###Prepare NFS and TFTP content
+### Prepare NFS and TFTP content
 
 Copy kernel and files required to boot:
 ```
@@ -399,7 +400,7 @@ sudo cp -r linux-sunxi/output/lib /srv/nfs/ct/rootfs
 sudo cp -r linux/output/lib /srv/nfs/ct/rootfs
 ```
 
-####Create U-Boot scripts for sunxi and mainline
+#### Create U-Boot scripts for sunxi and mainline
 
 Sunxi script will look like this:
 ```
@@ -446,7 +447,7 @@ sudo cp boot.scr.ml /srv/tftp/ct/ml
 <a name="issues"></a>
 ## Known issues
 
-###TFTP error: 'Unsupported option(s) requested' (8)
+### TFTP error: 'Unsupported option(s) requested' (8)
 
 This problem was discussed [here](http://lists.denx.de/pipermail/u-boot/2015-August/225129.html).
 You can fix it by changing TFTP  `TIMEOUT`:
@@ -469,7 +470,7 @@ index 18ce84c20214..33fe4e47a616 100644
 
 Recompile U-boot and flash it on SD card again.
 
-##Summary
+## Summary
 
 You can boot to `sunxi-3.4` kernel by simply:
 
