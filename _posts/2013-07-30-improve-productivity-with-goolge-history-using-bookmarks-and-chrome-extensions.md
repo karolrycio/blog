@@ -1,12 +1,13 @@
 ---
 ID: 62861
 post_title: >
-  Improve productivity with Goolge history using bookmarks and Chrome extensions
+  Improve productivity with Goolge history
+  using bookmarks and Chrome extensions
 author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/blog/productivity/improve-productivity-with-goolge-history-using-bookmarks-and-chrome-extensions/
+  http://3mdeb.kleder.co/miscellaneous/improve-productivity-with-goolge-history-using-bookmarks-and-chrome-extensions/
 published: true
 post_date: 2013-07-30 02:40:00
 tags:
@@ -15,14 +16,13 @@ tags:
 categories:
   - Miscellaneous
 ---
-
 The idea of this post is very simple (as usually)  and I wonder why I didn't thought
 about it earlier. The point is to use history of your Google queries to improve
 productivity. Most of things that we google can be replaced for example by browser
 extensions, bookmarks or rss feeds. Thats how we can gain few additional free seconds on 
 each google-type-click cycle.
 
-##Statistics##
+## Statistics
 
 Depending on different factors we spend a lot of time in browser. I cannot find 
 statistics for desktops but for mobile [Flurry](http://blog.flurry.com/bid/95723/Flurry-Five-Year-Report-It-s-an-App-World-The-Just-Web-Lives-in-It) 
@@ -49,7 +49,7 @@ Below I will show how I improve my productivity using top queries and top sites
 from [google history](https://history.google.com/history/). These are my results
 that I found after choosing `Show more trends`:
 
-###Top queries###
+### Top queries
 1. `ztm gdańsk`          - public transportation in my home town
 2. `usdpln`              - Polish Zloty to US Dollar rate
 3. `rozkład jazdy pkp`   - Polish state railways schedule
@@ -60,14 +60,14 @@ First of all I was surprised that I googled these things so many times. Especial
 for point 5 :). To improve my daily routine with these data I use following 
 applications:
 
-###Public transporation####
+### Public transporation
 I used well known Polish application for public transpiration in biggest cities 
 - [jakdojade.pl](http://jakdojade.pl/). If you register on their page they give 
 you possibility to save travel directions, so I used it to save my common 
 destinations. Of course I put it on my bookmark bar as it is one of the most 
 used links.
 
-###Currency ratio####
+### Currency ratio
 After thinking a while I realize that few requirements have to be met for me.
 I need below fields:
 
@@ -84,11 +84,11 @@ cannot set every field as I wish. Ratio always relate to recent changed position
 I also cannot display stock rate. That's why I will have to use one another 
 extension.
 
-###Railways schedule####
+### Railways schedule
 Right now there is nothing I can do for this one than adding to bookmark bar as 
 a recently visited site.
 
-###Stocks ticker####
+### Stocks ticker
 There are plenty of extensions for Chrome and not a lot of really good one. I 
 found [Stock Tracker](https://chrome.google.com/webstore/detail/stock-tracker/gphdmnilpmjaioploikmbpgkjfbagidf) 
 useful because it shows price in the icon on toolbar. But it is not free from 
@@ -97,7 +97,7 @@ font size selection causing that last digit is visible only in half, which cause
 it hard to read. Good thing is that after pushing extension button on toolbar I 
 get stock chart and can see the trend.
 
-###Top sites###
+### Top sites
 1. `stackoverflow.com`
 2. `en.wikipedia.org`
 3. `github.com`
@@ -125,7 +125,7 @@ I'm sure that you have some clues how to improve your productivity using Google
 history or you will find application for suggested plugins. Anyway, I whish you 
 good luck.
 
-##At the end - the hard thing##
+## At the end - the hard thing
 Switching our behaviors to something different is really hard thing. If we 
 always go to google and type well know query and trying to switch to something 
 new like replacing this behavior with clicking link or running extension could 
