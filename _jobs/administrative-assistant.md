@@ -15,7 +15,7 @@ Jesteśmy polską, szybko rozwijająca się firmą z branży IT. Pomagamy produc
 
 Obecnie poszukujemy **asystenta/asystentki** do pomocy w organizacji funkcjonowania przedsiębiorstwa aby wspólnie realizować postawione przed nami cele.
 
-### Codzienne zadania:
+### Codzienne zadania: 
 * Zbieranie danych, ich analiza, raportowanie, tworzenie pism, prezentacji oraz podsumowań,
 * Prowadzenie kalendarza, umawianie spotkań biznesowych, kontakt z interesantami,
 * Załatwianie spraw poza siedzibą firmy.
