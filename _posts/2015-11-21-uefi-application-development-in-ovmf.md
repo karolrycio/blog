@@ -5,12 +5,12 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/blog/uefi/uefi-application-development-in-ovmf/
+  http://3mdeb.kleder.co/firmware/uefi-application-development-in-ovmf/
 published: true
 post_date: 2015-11-21 11:18:52
 tags:
+  - qemu
   - UEFI
-  - QEMU
   - OVMF
 categories:
   - Firmware
@@ -26,14 +26,11 @@ and of course QEMU. Why someone may be interested in OVMF ?
   giving ability to start before hardware prototype arrive. There are also
   cases when hardware is available only remotely, dealing with remote setup is
   usually annoying, so part of development can be performed locally.
-
 * It also improve testing and debugging, because we have full control over
   execution environment internals. Error injection and corner case analysis can
   be ineffective in real world. OVMF and qemu open debugging to new levels.
-
 * It enables training and learning environment. Not every one can obtain UEFI
   PC and mess with it when there is risk of destroying sth.
-
 * Many other reason like ability to test/develop UEFI support for various OSes,
   simplified debugging, lack of dependencies on legacy address space and
   devices. This and other interesting reasons can be found in [Laszlo Ersek whitepaper](http://www.linux-kvm.org/downloads/lersek/ovmf-whitepaper-c770f8c.txt)
