@@ -86,7 +86,7 @@ Below I put together various pieces spread across network to have it in one
 place.
 
 <a name="tftp"></a>
-##Quick TFTP setup
+## Quick TFTP setup
 
 ```
 sudo apt-get install tftpd-hpa
