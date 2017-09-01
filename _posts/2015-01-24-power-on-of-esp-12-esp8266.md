@@ -5,7 +5,7 @@ author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/blog/firmware/power-on-of-esp-12-esp8266/
+  http://3mdeb.kleder.co/firmware/power-on-of-esp-12-esp8266/
 published: true
 post_date: 2015-01-24 00:25:05
 tags:
@@ -36,7 +36,7 @@ usually provide better feature set. Latest version known to wide public is
 ESP-12 which expose ADC and 9 GPIO pins. Finally I took in possession couple of
 them.
 
-##Soldering
+## Soldering
 
 Because this board came in SMD package I found that
 [ElectroDragon](http://www.electrodragon.com/) provides also adapter to solder
@@ -49,7 +49,7 @@ After applying my soldering-fu I get rewarding result.
 
 ![esp-12-soldered](http://3mdeb.kleder.co/wp-content/uploads/2017/07/esp-12-soldered.jpg)
 
-##Wiring
+## Wiring
 
 ESP-12 adapter from ElectroDragon got width of 31mm and pin distance match
 ideally to prototype board. There is only one problem that adapter width put
@@ -69,7 +69,7 @@ be insufficient that's why I used lab DC power supply.
 
 NOTE: Both ESP-12 and USB UART should be connected to the same GND.
 
-##Power on
+## Power on
 
 It wasn't simple. First I tried minicom with 115200 UART speed:
 
@@ -93,7 +93,7 @@ compile latest version of AT command or even modify it according to your needs.
 Some instructions can be found
 [here](https://github.com/esp8266/esp8266-wiki/wiki).
 
-##Summary
+## Summary
 
 I think that ESP8266 has great potential to make pressure on market and
 squeeze better solutions. There is a lot of interesting things going on around
