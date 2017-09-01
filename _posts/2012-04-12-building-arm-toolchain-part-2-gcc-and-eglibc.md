@@ -1,24 +1,24 @@
 ---
 ID: 62734
-post_title: 'Building ARM toolchain &#8211; part 2: gcc and eglibc'
+post_title: 'Building ARM toolchain – part 2: gcc and eglibc'
 author: Piotr Król
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3mdeb.kleder.co/blog/embedded/building-arm-toolchain-part-2-gcc-and-eglibc/
+  http://3mdeb.kleder.co/os-dev/building-arm-toolchain-part-2-gcc-and-eglibc/
 published: true
 post_date: 2012-04-12 23:54:00
 tags:
-  - embbeded
   - toolchain
   - gcc
   - eglibc
   - arm toolchain
   - arm
   - build
+  - embbeded
 categories:
-  - OS Dev
   - App Dev
+  - OS Dev
 ---
 Unfortunately after few tries of cross compiling eglibc using different source 
 for instructions I alway end with hard to solve issues. Luckily, in the sources 
