@@ -44,7 +44,7 @@ not match your behavior than ask yourself what percentage of time spent in
 browser proves that improving productivity using google queries data does not 
 make sense ? Especially when doing this will not consume lot of your time.
 
-##Productivity improvements based on my google history##
+## Productivity improvements based on my google history
 Below I will show how I improve my productivity using top queries and top sites
 from [google history](https://history.google.com/history/). These are my results
 that I found after choosing `Show more trends`:
